@@ -13,7 +13,6 @@ tags:
 categories:
   - psntools
 hidden: true
-image: /assets/psn-tools/password-change-psntools-homepage.png
 ---
 
 ## Step 1: Go to PSNTools
@@ -50,7 +49,7 @@ Enter the email address associated with your PSNTools account and submit.
 
 ## Step 5: Check Your Email
 
-You will receive a password reset email. Open it and click the **Reset Password** link.
+You will receive a password reset email. Open it and click the **Reset Password**.
 
 ![Password reset email from PSNTools](/assets/psn-tools/password-change-reset-email.png){: .w-100 .shadow .rounded-10 }
 
