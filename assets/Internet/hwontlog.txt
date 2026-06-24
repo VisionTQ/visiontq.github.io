@@ -1,0 +1,249 @@
+Manufacturer:Huawei Technologies Co., Ltd;
+ProductClass:LG8245X6-10;
+SerialNumber:485754433A4B6AB1;
+IP:10.196.193.199;
+HWVer:361D.E;
+SWVer:V500R022C10SPC272;
+
+2025-12-15 20:25:32 [Critical][Alarm-Log] Integrity check ok
+1981-01-01 00:00:00 [Error][Alarm-Log] AlarmID:104001,AlarmLevel:Error,Device reset. Cause: System reset after being powered on, Terminal:OTHER
+2025-12-22 19:08:34 [Critical][Alarm-Log] Integrity check ok
+1981-01-01 00:00:00 [Error][Alarm-Log] AlarmID:104001,AlarmLevel:Error,Device reset. Cause: System reset after being powered on, Terminal:OTHER
+2025-12-23 03:39:19 [Critical][Alarm-Log] Integrity check ok
+2025-12-24 05:52:20 [Critical][Config-Log] Terminal:WEB(192.168.1.28),Result:Success,Type:Login,Username:user
+2025-12-24 05:57:42 [Critical][Config-Log] Terminal:WEB(192.168.1.28),UserName:user,Result:Success,Cmd:Logout,Reason:timeout
+2025-12-24 06:08:14 [Alert][Alarm-Log] AlarmID:104599,AlarmLevel:Alert,File Hash Check Error:/mnt/jffs2/hwontlog.bin 2
+2025-12-26 09:35:48 [Critical][Config-Log] Terminal:WEB(192.168.1.29),Result:Fail,Type:Login,Username:user
+2025-12-26 09:35:52 [Critical][Config-Log] Terminal:WEB(192.168.1.29),Result:Fail,Type:Login,Username:user
+2025-12-26 09:35:53 [Critical][Config-Log] Terminal:WEB(192.168.1.29),Result:Fail,Type:Login,Username:NetSec1
+2025-12-26 09:35:53 [Error][Alarm-Log] AlarmID:104032,AlarmLevel:Error,User exceeded maximum number of attempted logins, Locked.Terminal:WEB(192.168.1.29,NetSec1)
+2025-12-26 09:36:53 [Error][Alarm-Log] AlarmID:104519,AlarmLevel:Error,[WEB(192.168.1.29,NetSec1)]unlocked!
+2025-12-26 09:37:46 [Critical][Config-Log] Terminal:WEB(192.168.1.29),Result:Success,Type:Login,Username:user
+2025-12-26 09:38:06 [Critical][Config-Log] [1]Terminal:WEB(192.168.1.29),UserName:user,Result:Success,Type:Set,X_HW_DEBUG.AMP.WifiCoverSetWlanBasic:,SSID:M-2.4G,SSIDAdvertisementEnabled:0,SsidInst:1,Enable:1,WMMEnable:1,STAIsolation:0,MaxAsso
+2025-12-26 09:38:06 [Critical][Config-Log] [2]ciateNum:64,SSID5G:M-5G,SSIDAdvertisementEnabled5G:0,SsidInst5G:5,Enable5G:1,WMMEnable5G:1,STAIsolation5G:0,MaxAssociateNum5G:64
+2025-12-26 09:38:06 [Critical][Config-Log] Terminal:WEB(192.168.1.29),UserName:user,Result:Success,Type:Set,InternetGatewayDevice.LANDevice.WLANConfiguration:1.1,SSID:M-2.4G,SSIDAdvertisementEnabled:0
+2025-12-26 09:38:06 [Critical][Config-Log] Terminal:WEB(192.168.1.29),UserName:user,Result:Success,Type:Set,InternetGatewayDevice.LANDevice.WLANConfiguration:1.5,SSID:M-5G,SSIDAdvertisementEnabled:0
+2025-12-26 09:38:06 [Critical][Config-Log] Terminal:WEB(192.168.1.29),UserName:user,Result:Success,Type:Set,X_HW_DEBUG.AMP.SetDualWifiCoverEnable:,RadioInst:1,FirstBandEnable:1
+2025-12-26 09:38:09 [Critical][Config-Log] Terminal:WEB(192.168.1.29),UserName:user,Result:Success,Type:Set,LANDevice.WiFi.Radio:1.1,Enable:1
+2025-12-26 09:38:11 [Critical][Config-Log] [1]Terminal:WEB(192.168.1.29),UserName:user,Result:Success,Type:Set,X_HW_DEBUG.AMP.WifiCoverSetWlanBasic:,SSID:M-2.4G,SSIDAdvertisementEnabled:0,SsidInst:1,Enable:1,WMMEnable:1,STAIsolation:0,MaxAsso
+2025-12-26 09:38:11 [Critical][Config-Log] [2]ciateNum:64,SSID5G:M-5G,SSIDAdvertisementEnabled5G:0,SsidInst5G:5,Enable5G:1,WMMEnable5G:1,STAIsolation5G:0,MaxAssociateNum5G:64
+2025-12-26 09:38:11 [Critical][Config-Log] Terminal:WEB(192.168.1.29),UserName:user,Result:Success,Type:Set,InternetGatewayDevice.LANDevice.WLANConfiguration:1.1,SSID:M-2.4G,SSIDAdvertisementEnabled:0
+2025-12-26 09:38:11 [Critical][Config-Log] Terminal:WEB(192.168.1.29),UserName:user,Result:Success,Type:Set,InternetGatewayDevice.LANDevice.WLANConfiguration:1.5,SSID:M-5G,SSIDAdvertisementEnabled:0
+2025-12-26 09:39:19 [Error][Alarm-Log] AlarmID:304523,AlarmLevel:Error,[WEB]Unauthorized web request from ip 192.168.1.40
+2025-12-26 09:40:11 [Critical][Config-Log] Terminal:WEB(192.168.1.29),Result:Success,Type:Logout,Username:user
+2025-12-26 10:08:13 [Alert][Alarm-Log] AlarmID:104599,AlarmLevel:Alert,File Hash Check Error:/mnt/jffs2/hwontlog.bin 2
+1981-01-01 00:00:00 [Error][Alarm-Log] AlarmID:104001,AlarmLevel:Error,Device reset. Cause: System reset after being powered on, Terminal:OTHER
+2025-12-26 19:01:46 [Critical][Alarm-Log] Integrity check ok
+1981-01-01 00:00:00 [Error][Alarm-Log] AlarmID:104001,AlarmLevel:Error,Device reset. Cause: System reset after being powered on, Terminal:OTHER
+1981-01-01 00:01:18 [Critical][Alarm-Log] Integrity check ok
+1981-01-01 00:00:00 [Error][Alarm-Log] AlarmID:104001,AlarmLevel:Error,Device reset. Cause: System reset after being powered on, Terminal:OTHER
+2025-12-30 10:46:37 [Critical][Alarm-Log] Integrity check ok
+2025-12-30 12:03:59 [Critical][Config-Log] Terminal:WEB(192.168.1.28),Result:Success,Type:Login,Username:user
+2025-12-30 12:04:57 [Critical][Config-Log] [1]Terminal:WEB(192.168.1.28),UserName:user,Result:Success,Type:Set,X_HW_DEBUG.AMP.WifiCoverSetWlanBasic:,SSID:M-2.4G,SSIDAdvertisementEnabled:0,SsidInst:1,Enable:1,WMMEnable:1,STAIsolation:0,MaxAsso
+2025-12-30 12:04:57 [Critical][Config-Log] [2]ciateNum:64,SSID5G:M-5G,SSIDAdvertisementEnabled5G:0,SsidInst5G:5,Enable5G:1,WMMEnable5G:1,STAIsolation5G:0,MaxAssociateNum5G:64
+2025-12-30 12:04:57 [Critical][Config-Log] Terminal:WEB(192.168.1.28),UserName:user,Result:Success,Type:Set,InternetGatewayDevice.LANDevice.WLANConfiguration:1.1,SSID:M-2.4G,SSIDAdvertisementEnabled:0
+2025-12-30 12:04:57 [Critical][Config-Log] Terminal:WEB(192.168.1.28),UserName:user,Result:Success,Type:Set,InternetGatewayDevice.LANDevice.WLANConfiguration:1.5,SSID:M-5G,SSIDAdvertisementEnabled:0
+2025-12-30 12:04:57 [Critical][Config-Log] Terminal:WEB(192.168.1.28),UserName:user,Result:Success,Type:Set,X_HW_DEBUG.AMP.SetDualWifiCoverEnable:,RadioInst:1,FirstBandEnable:0
+2025-12-30 12:04:57 [Critical][Config-Log] Terminal:WEB(192.168.1.28),UserName:user,Result:Success,Type:Set,LANDevice.WiFi.Radio:1.1,Enable:0
+2025-12-30 12:05:03 [Critical][Config-Log] [1]Terminal:WEB(192.168.1.28),UserName:user,Result:Success,Type:Set,X_HW_DEBUG.AMP.WifiCoverSetWlanBasic:,SSID:M-2.4G,SSIDAdvertisementEnabled:0,SsidInst:1,Enable:1,WMMEnable:1,STAIsolation:0,MaxAsso
+2025-12-30 12:05:03 [Critical][Config-Log] [2]ciateNum:64,SSID5G:M-5G,SSIDAdvertisementEnabled5G:0,SsidInst5G:5,Enable5G:1,WMMEnable5G:1,STAIsolation5G:0,MaxAssociateNum5G:64
+2025-12-30 12:05:03 [Critical][Config-Log] Terminal:WEB(192.168.1.28),UserName:user,Result:Success,Type:Set,InternetGatewayDevice.LANDevice.WLANConfiguration:1.1,SSID:M-2.4G,SSIDAdvertisementEnabled:0
+2025-12-30 12:05:03 [Critical][Config-Log] Terminal:WEB(192.168.1.28),UserName:user,Result:Success,Type:Set,InternetGatewayDevice.LANDevice.WLANConfiguration:1.5,SSID:M-5G,SSIDAdvertisementEnabled:0
+2025-12-30 12:05:04 [Critical][Config-Log] [1]Terminal:WEB(192.168.1.28),UserName:user,Result:Success,Type:Set,X_HW_DEBUG.AMP.WifiCoverSetWlanBasic:,SSID:M-2.4G,SSIDAdvertisementEnabled:0,SsidInst:1,Enable:1,WMMEnable:1,STAIsolation:0,MaxAsso
+2025-12-30 12:05:04 [Critical][Config-Log] [2]ciateNum:64,SSID5G:M-5G,SSIDAdvertisementEnabled5G:0,SsidInst5G:5,Enable5G:1,WMMEnable5G:1,STAIsolation5G:0,MaxAssociateNum5G:64
+2025-12-30 12:05:04 [Critical][Config-Log] Terminal:WEB(192.168.1.28),UserName:user,Result:Success,Type:Set,InternetGatewayDevice.LANDevice.WLANConfiguration:1.1,SSID:M-2.4G,SSIDAdvertisementEnabled:0
+2025-12-30 12:05:04 [Critical][Config-Log] Terminal:WEB(192.168.1.28),UserName:user,Result:Success,Type:Set,InternetGatewayDevice.LANDevice.WLANConfiguration:1.5,SSID:M-5G,SSIDAdvertisementEnabled:0
+2025-12-30 12:05:33 [Error][Alarm-Log] AlarmID:104001,AlarmLevel:Error,Device reset. Cause: [00003], Terminal:WEB(192.168.1.28,user)
+2025-12-30 12:07:19 [Critical][Alarm-Log] Integrity check ok
+2025-12-30 12:08:06 [Critical][Config-Log] Terminal:WEB(192.168.1.28),Result:Success,Type:Login,Username:user
+2025-12-30 12:13:13 [Critical][Config-Log] Terminal:WEB(192.168.1.28),UserName:user,Result:Success,Cmd:Logout,Reason:timeout
+1981-01-01 00:00:00 [Error][Alarm-Log] AlarmID:104001,AlarmLevel:Error,Device reset. Cause: System reset after being powered on, Terminal:OTHER
+2026-01-07 07:22:29 [Critical][Alarm-Log] Integrity check ok
+1981-01-01 00:00:00 [Error][Alarm-Log] AlarmID:104001,AlarmLevel:Error,Device reset. Cause: System reset after being powered on, Terminal:OTHER
+2026-01-23 15:04:53 [Critical][Alarm-Log] Integrity check ok
+2026-01-31 14:22:54 [Critical][Config-Log] Terminal:WEB(192.168.1.29),Result:Fail,Type:Login,Username:user
+2026-01-31 14:22:57 [Critical][Config-Log] Terminal:WEB(192.168.1.29),Result:Fail,Type:Login,Username:NetSec1
+2026-01-31 14:23:21 [Critical][Config-Log] Terminal:WEB(192.168.1.29),Result:Fail,Type:Login,Username:user
+2026-01-31 14:23:21 [Error][Alarm-Log] AlarmID:104032,AlarmLevel:Error,User exceeded maximum number of attempted logins, Locked.Terminal:WEB(192.168.1.29,user)
+2026-01-31 14:24:21 [Error][Alarm-Log] AlarmID:104519,AlarmLevel:Error,[WEB(192.168.1.29,user)]unlocked!
+2026-01-31 14:25:10 [Critical][Config-Log] Terminal:WEB(192.168.1.29),Result:Success,Type:Login,Username:user
+2026-01-31 14:25:36 [Critical][Config-Log] [1]Terminal:WEB(192.168.1.29),UserName:user,Result:Success,Type:Set,X_HW_DEBUG.AMP.WifiCoverSetWlanBasic:,SSID:M-2.4G,SSIDAdvertisementEnabled:1,SsidInst:1,Enable:1,WMMEnable:1,STAIsolation:0,MaxAsso
+2026-01-31 14:25:36 [Critical][Config-Log] [2]ciateNum:64,SSID5G:M-5G,SSIDAdvertisementEnabled5G:1,SsidInst5G:5,Enable5G:1,WMMEnable5G:1,STAIsolation5G:0,MaxAssociateNum5G:64
+2026-01-31 14:25:36 [Critical][Config-Log] Terminal:WEB(192.168.1.29),UserName:user,Result:Success,Type:Set,InternetGatewayDevice.LANDevice.WLANConfiguration:1.1,SSID:M-2.4G,SSIDAdvertisementEnabled:1
+2026-01-31 14:25:37 [Critical][Config-Log] Terminal:WEB(192.168.1.29),UserName:user,Result:Success,Type:Set,InternetGatewayDevice.LANDevice.WLANConfiguration:1.5,SSID:M-5G,SSIDAdvertisementEnabled:1
+2026-01-31 14:25:37 [Critical][Config-Log] Terminal:WEB(192.168.1.29),UserName:user,Result:Success,Type:Set,X_HW_DEBUG.AMP.SetDualWifiCoverEnable:,RadioInst:1,FirstBandEnable:1
+2026-01-31 14:25:39 [Critical][Config-Log] Terminal:WEB(192.168.1.29),UserName:user,Result:Success,Type:Set,LANDevice.WiFi.Radio:1.1,Enable:1
+2026-01-31 14:25:51 [Critical][Config-Log] [1]Terminal:WEB(192.168.1.29),UserName:user,Result:Success,Type:Set,X_HW_DEBUG.AMP.WifiCoverSetWlanBasic:,SSID:M-2.4G,SSIDAdvertisementEnabled:1,SsidInst:1,Enable:1,WMMEnable:1,STAIsolation:0,MaxAsso
+2026-01-31 14:25:51 [Critical][Config-Log] [2]ciateNum:64,SSID5G:M-5G,SSIDAdvertisementEnabled5G:1,SsidInst5G:5,Enable5G:1,WMMEnable5G:1,STAIsolation5G:0,MaxAssociateNum5G:64
+2026-01-31 14:25:51 [Critical][Config-Log] Terminal:WEB(192.168.1.29),UserName:user,Result:Success,Type:Set,InternetGatewayDevice.LANDevice.WLANConfiguration:1.1,SSID:M-2.4G,SSIDAdvertisementEnabled:1
+2026-01-31 14:25:51 [Critical][Config-Log] Terminal:WEB(192.168.1.29),UserName:user,Result:Success,Type:Set,InternetGatewayDevice.LANDevice.WLANConfiguration:1.5,SSID:M-5G,SSIDAdvertisementEnabled:1
+2026-01-31 14:27:53 [Critical][Config-Log] Terminal:WEB(192.168.1.29),Result:Success,Type:Logout,Username:user
+2026-01-31 14:33:44 [Alert][Alarm-Log] AlarmID:104599,AlarmLevel:Alert,File Hash Check Error:/mnt/jffs2/hwontlog.bin 2
+2026-01-31 15:03:44 [Alert][Alarm-Log] AlarmID:104599,AlarmLevel:Alert,File Hash Check Error:/mnt/jffs2/hwontlog.bin 2
+1981-01-01 00:00:00 [Error][Alarm-Log] AlarmID:104001,AlarmLevel:Error,Device reset. Cause: System reset after being powered on, Terminal:OTHER
+2026-02-02 15:19:41 [Critical][Alarm-Log] Integrity check ok
+2026-02-02 22:05:20 [Critical][Config-Log] Terminal:WEB(192.168.1.29),Result:Fail,Type:Login,Username:user
+2026-02-02 22:05:23 [Critical][Config-Log] Terminal:WEB(192.168.1.29),Result:Fail,Type:Login,Username:NetSec1
+2026-02-02 22:05:36 [Critical][Config-Log] Terminal:WEB(192.168.1.29),Result:Success,Type:Login,Username:user
+2026-02-02 22:10:50 [Critical][Config-Log] Terminal:WEB(192.168.1.29),UserName:user,Result:Success,Cmd:Logout,Reason:timeout
+2026-02-02 22:18:37 [Alert][Alarm-Log] AlarmID:104599,AlarmLevel:Alert,File Hash Check Error:/mnt/jffs2/hwontlog.bin 2
+2026-02-09 04:36:46 [Critical][Config-Log] Terminal:WEB(192.168.1.19),Result:Success,Type:Login,Username:user
+2026-02-09 04:42:26 [Critical][Config-Log] Terminal:WEB(192.168.1.19),UserName:user,Result:Success,Cmd:Logout,Reason:timeout
+2026-02-09 04:48:33 [Alert][Alarm-Log] AlarmID:104599,AlarmLevel:Alert,File Hash Check Error:/mnt/jffs2/hwontlog.bin 1
+2026-02-21 06:59:46 [Critical][Config-Log] Terminal:WEB(192.168.1.28),Result:Success,Type:Login,Username:user
+2026-02-21 06:59:56 [Error][Alarm-Log] AlarmID:104001,AlarmLevel:Error,Device reset. Cause: [00003], Terminal:WEB(192.168.1.28,user)
+2026-02-21 07:01:42 [Critical][Alarm-Log] Integrity check ok
+1981-01-01 00:00:00 [Error][Alarm-Log] AlarmID:104001,AlarmLevel:Error,Device reset. Cause: System reset after being powered on, Terminal:OTHER
+1981-01-01 00:01:18 [Critical][Alarm-Log] Integrity check ok
+2026-03-10 17:56:56 [Alert][Alarm-Log] AlarmID:104599,AlarmLevel:Alert,File Hash Check Error:/mnt/jffs2/hwontlog.bin 2
+2026-03-29 09:59:10 [Critical][Config-Log] Terminal:WEB(192.168.1.28),Result:Success,Type:Login,Username:user
+2026-03-29 10:05:25 [Critical][Config-Log] Terminal:WEB(192.168.1.28),UserName:user,Result:Success,Cmd:Logout,Reason:timeout
+2026-03-29 10:16:23 [Critical][Config-Log] Terminal:WEB(192.168.1.28),Result:Success,Type:Login,Username:user
+2026-03-29 10:16:40 [Error][Alarm-Log] AlarmID:104001,AlarmLevel:Error,Device reset. Cause: [00003], Terminal:WEB(192.168.1.28,user)
+2026-03-29 10:18:26 [Critical][Alarm-Log] Integrity check ok
+2026-03-30 08:57:04 [Critical][Config-Log] Terminal:WEB(192.168.1.28),Result:Success,Type:Login,Username:user
+2026-03-30 08:57:33 [Error][Alarm-Log] AlarmID:104001,AlarmLevel:Error,Device reset. Cause: [00003], Terminal:WEB(192.168.1.28,user)
+2026-03-30 08:59:18 [Critical][Alarm-Log] Integrity check ok
+2026-03-30 11:14:39 [Critical][Config-Log] Terminal:WEB(192.168.1.28),Result:Success,Type:Login,Username:user
+2026-03-30 11:20:08 [Critical][Config-Log] Terminal:WEB(192.168.1.28),UserName:user,Result:Success,Cmd:Logout,Reason:timeout
+2026-03-30 11:28:14 [Alert][Alarm-Log] AlarmID:104599,AlarmLevel:Alert,File Hash Check Error:/mnt/jffs2/hwontlog.bin 2
+2026-04-01 14:12:25 [Critical][Config-Log] Terminal:WEB(192.168.1.28),Result:Success,Type:Login,Username:user
+2026-04-01 14:12:34 [Error][Alarm-Log] AlarmID:104001,AlarmLevel:Error,Device reset. Cause: [00003], Terminal:WEB(192.168.1.28,user)
+2026-04-01 14:14:20 [Critical][Alarm-Log] Integrity check ok
+2026-04-01 14:22:13 [Critical][Config-Log] Terminal:WEB(192.168.1.28),Result:Success,Type:Login,Username:user
+2026-04-01 14:28:20 [Critical][Config-Log] Terminal:WEB(192.168.1.28),UserName:user,Result:Success,Cmd:Logout,Reason:timeout
+2026-04-01 14:28:20 [Critical][Config-Log] Terminal:WEB(192.168.1.28),UserName:user,Result:Success,Cmd:Logout,Reason:timeout
+2026-04-01 14:35:21 [Critical][Config-Log] Terminal:WEB(192.168.1.28),Result:Success,Type:Login,Username:user
+2026-04-01 14:35:53 [Critical][Config-Log] Terminal:WEB(192.168.1.28),UserName:user,Result:Success,Type:Set,X_HW_FeatureList.BBSPCustomization.UserDevInfo:,State:Creating
+2026-04-01 14:44:32 [Critical][Config-Log] Terminal:WEB(192.168.1.28),UserName:user,Result:Success,Cmd:Logout,Reason:timeout
+2026-04-01 15:13:15 [Alert][Alarm-Log] AlarmID:104599,AlarmLevel:Alert,File Hash Check Error:/mnt/jffs2/hwontlog.bin 2
+1981-01-01 00:00:00 [Error][Alarm-Log] AlarmID:104001,AlarmLevel:Error,Device reset. Cause: System reset after being powered on, Terminal:OTHER
+2026-04-01 17:45:01 [Critical][Alarm-Log] Integrity check ok
+2026-04-01 18:07:10 [Critical][Config-Log] Terminal:WEB(192.168.1.4),Result:Success,Type:Login,Username:user
+2026-04-01 18:07:50 [Critical][Config-Log] [1]Terminal:WEB(192.168.1.4),UserName:user,Result:Success,Type:Set,X_HW_DEBUG.AMP.WifiCoverSetWlanBasic:,SSID:M-2.4G,SSIDAdvertisementEnabled:1,SsidInst:1,Enable:1,WMMEnable:1,STAIsolation:0,MaxAssoc
+2026-04-01 18:07:50 [Critical][Config-Log] [2]iateNum:64,SSID5G:M-5G,SSIDAdvertisementEnabled5G:1,SsidInst5G:5,Enable5G:1,WMMEnable5G:1,STAIsolation5G:0,MaxAssociateNum5G:64
+2026-04-01 18:07:50 [Critical][Config-Log] Terminal:WEB(192.168.1.4),UserName:user,Result:Success,Type:Set,InternetGatewayDevice.LANDevice.WLANConfiguration:1.1,SSID:M-2.4G,SSIDAdvertisementEnabled:1
+2026-04-01 18:07:50 [Critical][Config-Log] Terminal:WEB(192.168.1.4),UserName:user,Result:Success,Type:Set,InternetGatewayDevice.LANDevice.WLANConfiguration:1.5,SSID:M-5G,SSIDAdvertisementEnabled:1
+2026-04-01 18:07:50 [Critical][Config-Log] Terminal:WEB(192.168.1.4),UserName:user,Result:Success,Type:Set,X_HW_DEBUG.AMP.SetDualWifiCoverEnable:,RadioInst:0,FirstBandEnable:0,SecondBandEnable:0
+2026-04-01 18:07:50 [Critical][Config-Log] Terminal:WEB(192.168.1.4),UserName:user,Result:Success,Type:Set,LANDevice.WiFi.Radio:1.1,Enable:0
+2026-04-01 18:07:51 [Critical][Config-Log] Terminal:WEB(192.168.1.4),UserName:user,Result:Success,Type:Set,LANDevice.WiFi.Radio:1.2,Enable:0
+2026-04-01 18:07:59 [Error][Alarm-Log] AlarmID:304523,AlarmLevel:Error,[WEB]Unauthorized web request from ip 192.168.1.61
+2026-04-01 18:07:59 [Error][Alarm-Log] AlarmID:304523,AlarmLevel:Error,[WEB]Unauthorized web request from ip 192.168.1.61
+2026-04-01 18:07:59 [Error][Alarm-Log] AlarmID:304523,AlarmLevel:Error,[WEB]Unauthorized web request from ip 192.168.1.61
+2026-04-01 18:07:59 [Error][Alarm-Log] AlarmID:304523,AlarmLevel:Error,[WEB]Unauthorized web request from ip 192.168.1.61
+2026-04-01 18:07:59 [Error][Alarm-Log] AlarmID:304523,AlarmLevel:Error,[WEB]Unauthorized web request from ip 192.168.1.61
+2026-04-01 18:07:59 [Error][Alarm-Log] AlarmID:304523,AlarmLevel:Error,[WEB]Unauthorized web request from ip 192.168.1.61
+2026-04-01 18:07:59 [Error][Alarm-Log] AlarmID:304523,AlarmLevel:Error,[WEB]Unauthorized web request from ip 192.168.1.61
+2026-04-01 18:07:59 [Error][Alarm-Log] AlarmID:304523,AlarmLevel:Error,[WEB]Unauthorized web request from ip 192.168.1.61
+2026-04-01 18:07:59 [Error][Alarm-Log] AlarmID:304523,AlarmLevel:Error,[WEB]Unauthorized web request from ip 192.168.1.61
+2026-04-01 18:08:07 [Critical][Config-Log] Terminal:WEB(192.168.1.61),Result:Fail,Type:Login,Username:user
+2026-04-01 18:08:50 [Critical][Config-Log] Terminal:WEB(192.168.1.4),Result:Success,Type:Logout,Username:user
+2026-04-01 18:13:56 [Alert][Alarm-Log] AlarmID:104599,AlarmLevel:Alert,File Hash Check Error:/mnt/jffs2/hwontlog.bin 2
+2026-04-02 11:53:48 [Critical][Config-Log] Terminal:WEB(192.168.1.61),Result:Success,Type:Login,Username:user
+2026-04-02 11:53:56 [Error][Alarm-Log] AlarmID:104001,AlarmLevel:Error,Device reset. Cause: [00003], Terminal:WEB(192.168.1.61,user)
+2026-04-02 11:55:41 [Critical][Alarm-Log] Integrity check ok
+1981-01-01 00:00:00 [Error][Alarm-Log] AlarmID:104001,AlarmLevel:Error,Device reset. Cause: System reset after being powered on, Terminal:OTHER
+2026-04-03 16:38:20 [Critical][Alarm-Log] Integrity check ok
+1981-01-01 00:00:00 [Error][Alarm-Log] AlarmID:104001,AlarmLevel:Error,Device reset. Cause: System reset after being powered on, Terminal:OTHER
+2026-04-03 18:06:34 [Critical][Alarm-Log] Integrity check ok
+1981-01-01 00:00:00 [Error][Alarm-Log] AlarmID:104001,AlarmLevel:Error,Device reset. Cause: System reset after being powered on, Terminal:OTHER
+2026-04-03 19:08:38 [Critical][Alarm-Log] Integrity check ok
+2026-04-07 22:45:44 [Critical][Config-Log] Terminal:WEB(192.168.1.58),Result:Success,Type:Login,Username:user
+2026-04-07 22:45:53 [Error][Alarm-Log] AlarmID:104001,AlarmLevel:Error,Device reset. Cause: [00003], Terminal:WEB(192.168.1.58,user)
+2026-04-07 22:47:39 [Critical][Alarm-Log] Integrity check ok
+2026-04-07 23:28:02 [Critical][Config-Log] Terminal:WEB(192.168.1.58),Result:Success,Type:Login,Username:user
+2026-04-07 23:30:04 [Critical][Config-Log] Terminal:WEB(192.168.1.58),Result:Success,Type:Logout,Username:user
+2026-04-07 23:46:34 [Alert][Alarm-Log] AlarmID:104599,AlarmLevel:Alert,File Hash Check Error:/mnt/jffs2/hwontlog.bin 2
+2026-04-14 22:21:58 [Critical][Config-Log] Terminal:WEB(192.168.1.61),Result:Success,Type:Login,Username:user
+2026-04-14 22:22:12 [Error][Alarm-Log] AlarmID:104001,AlarmLevel:Error,Device reset. Cause: [00003], Terminal:WEB(192.168.1.61,user)
+2026-04-14 22:23:57 [Critical][Alarm-Log] Integrity check ok
+2026-04-14 23:44:09 [Critical][Config-Log] Terminal:WEB(192.168.1.61),Result:Success,Type:Login,Username:user
+2026-04-14 23:45:49 [Critical][Config-Log] Terminal:WEB(192.168.1.61),UserName:user,Result:Success,Type:Set,X_HW_FeatureList.BBSPCustomization.UserDevInfo:,State:Creating
+2026-04-15 00:02:46 [Critical][Config-Log] Terminal:WEB(192.168.1.61),UserName:user,Result:Success,Cmd:Logout,Reason:timeout
+2026-04-15 00:02:46 [Critical][Config-Log] Terminal:WEB(192.168.1.61),UserName:user,Result:Success,Cmd:Logout,Reason:timeout
+2026-04-15 00:02:52 [Critical][Config-Log] Terminal:WEB(192.168.1.61),Result:Success,Type:Login,Username:user
+2026-04-15 00:02:53 [Critical][Config-Log] Terminal:WEB(192.168.1.61),Result:Success,Type:Login,Username:user
+2026-04-15 00:05:58 [Critical][Config-Log] Terminal:WEB(192.168.1.61),UserName:user,Result:Success,Type:Add,WANConnectionDevice.WANIPConnection.X_HW_DMZ:3.1.1,DMZEnable:0,DMZHostIPAddress:192.168.1.59
+2026-04-15 00:06:23 [Critical][Config-Log] Terminal:WEB(192.168.1.61),UserName:user,Result:Success,Type:Set,WANConnectionDevice.WANIPConnection.X_HW_DMZ:3.1.1,DMZEnable:1,DMZHostIPAddress:192.168.1.59
+2026-04-15 00:08:20 [Error][Alarm-Log] AlarmID:304523,AlarmLevel:Error,[WEB]Unauthorized web request from ip 192.168.1.58
+2026-04-15 00:09:07 [Critical][Config-Log] Terminal:WEB(192.168.1.61),Result:Success,Type:Logout,Username:user
+2026-04-15 00:22:52 [Alert][Alarm-Log] AlarmID:104599,AlarmLevel:Alert,File Hash Check Error:/mnt/jffs2/hwontlog.bin 2
+2026-04-16 04:23:30 [Critical][Config-Log] Terminal:WEB(192.168.1.58),Result:Success,Type:Login,Username:user
+2026-04-16 04:24:44 [Critical][Config-Log] Terminal:WEB(192.168.1.58),Result:Success,Type:Logout,Username:user
+2026-04-16 04:52:52 [Alert][Alarm-Log] AlarmID:104599,AlarmLevel:Alert,File Hash Check Error:/mnt/jffs2/hwontlog.bin 2
+1981-01-01 00:00:00 [Error][Alarm-Log] AlarmID:104001,AlarmLevel:Error,Device reset. Cause: System reset after being powered on, Terminal:OTHER
+2026-04-21 08:34:36 [Critical][Alarm-Log] Integrity check ok
+2026-04-25 22:52:17 [Critical][Config-Log] Terminal:WEB(192.168.1.58),Result:Success,Type:Login,Username:user
+2026-04-25 22:52:27 [Error][Alarm-Log] AlarmID:104001,AlarmLevel:Error,Device reset. Cause: [00003], Terminal:WEB(192.168.1.58,user)
+2026-04-25 22:54:13 [Critical][Alarm-Log] Integrity check ok
+2026-04-27 14:01:58 [Critical][Config-Log] Terminal:WEB(192.168.1.58),Result:Success,Type:Login,Username:user
+2026-04-27 14:02:09 [Error][Alarm-Log] AlarmID:104001,AlarmLevel:Error,Device reset. Cause: [00003], Terminal:WEB(192.168.1.58,user)
+2026-04-27 14:03:55 [Critical][Alarm-Log] Integrity check ok
+2026-04-29 13:43:04 [Critical][Config-Log] Terminal:WEB(192.168.1.58),Result:Success,Type:Login,Username:user
+2026-04-29 13:43:11 [Error][Alarm-Log] AlarmID:104001,AlarmLevel:Error,Device reset. Cause: [00003], Terminal:WEB(192.168.1.58,user)
+2026-04-29 13:44:57 [Critical][Alarm-Log] Integrity check ok
+2026-05-01 12:59:31 [Critical][Config-Log] Terminal:WEB(192.168.1.58),Result:Success,Type:Login,Username:user
+2026-05-01 12:59:41 [Error][Alarm-Log] AlarmID:104001,AlarmLevel:Error,Device reset. Cause: [00003], Terminal:WEB(192.168.1.58,user)
+2026-05-01 13:01:26 [Critical][Alarm-Log] Integrity check ok
+2026-05-01 14:28:38 [Critical][Config-Log] Terminal:WEB(192.168.1.58),Result:Success,Type:Login,Username:user
+2026-05-01 14:28:57 [Error][Alarm-Log] AlarmID:104001,AlarmLevel:Error,Device reset. Cause: [00003], Terminal:WEB(192.168.1.58,user)
+2026-05-01 14:30:42 [Critical][Alarm-Log] Integrity check ok
+2026-05-02 22:14:11 [Critical][Config-Log] Terminal:WEB(192.168.1.58),Result:Success,Type:Login,Username:user
+2026-05-02 22:14:22 [Error][Alarm-Log] AlarmID:104001,AlarmLevel:Error,Device reset. Cause: [00003], Terminal:WEB(192.168.1.58,user)
+2026-05-02 22:16:07 [Critical][Alarm-Log] Integrity check ok
+1981-01-01 00:00:00 [Error][Alarm-Log] AlarmID:104001,AlarmLevel:Error,Device reset. Cause: System reset after being powered on, Terminal:OTHER
+2026-05-02 22:55:04 [Critical][Alarm-Log] Integrity check ok
+1981-01-01 00:00:00 [Error][Alarm-Log] AlarmID:104001,AlarmLevel:Error,Device reset. Cause: System reset after being powered on, Terminal:OTHER
+2026-05-03 16:28:31 [Critical][Alarm-Log] Integrity check ok
+2026-05-03 19:06:08 [Critical][Config-Log] Terminal:WEB(192.168.1.58),Result:Success,Type:Login,Username:user
+2026-05-03 19:06:19 [Error][Alarm-Log] AlarmID:104001,AlarmLevel:Error,Device reset. Cause: [00003], Terminal:WEB(192.168.1.58,user)
+2026-05-03 19:08:04 [Critical][Alarm-Log] Integrity check ok
+2026-05-06 02:04:45 [Critical][Config-Log] Terminal:WEB(192.168.1.58),Result:Success,Type:Login,Username:user
+2026-05-06 02:04:53 [Error][Alarm-Log] AlarmID:104001,AlarmLevel:Error,Device reset. Cause: [00003], Terminal:WEB(192.168.1.58,user)
+2026-05-06 02:06:39 [Critical][Alarm-Log] Integrity check ok
+2026-05-06 19:54:01 [Critical][Config-Log] Terminal:WEB(192.168.1.58),Result:Success,Type:Login,Username:user
+2026-05-06 19:54:30 [Error][Alarm-Log] AlarmID:104001,AlarmLevel:Error,Device reset. Cause: [00003], Terminal:WEB(192.168.1.58,user)
+2026-05-06 19:56:16 [Critical][Alarm-Log] Integrity check ok
+2026-05-06 22:19:31 [Critical][Config-Log] Terminal:WEB(192.168.1.58),Result:Success,Type:Login,Username:user
+2026-05-06 22:19:39 [Error][Alarm-Log] AlarmID:104001,AlarmLevel:Error,Device reset. Cause: [00003], Terminal:WEB(192.168.1.58,user)
+2026-05-06 22:21:24 [Critical][Alarm-Log] Integrity check ok
+2026-05-11 23:57:10 [Critical][Config-Log] Terminal:WEB(192.168.1.58),Result:Success,Type:Login,Username:user
+2026-05-11 23:57:18 [Error][Alarm-Log] AlarmID:104001,AlarmLevel:Error,Device reset. Cause: [00003], Terminal:WEB(192.168.1.58,user)
+2026-05-11 23:59:04 [Critical][Alarm-Log] Integrity check ok
+1981-01-01 00:00:00 [Error][Alarm-Log] AlarmID:104001,AlarmLevel:Error,Device reset. Cause: System reset after being powered on, Terminal:OTHER
+2026-05-12 01:43:31 [Critical][Alarm-Log] Integrity check ok
+2026-05-12 01:49:10 [Critical][Config-Log] Terminal:WEB(192.168.1.58),Result:Success,Type:Login,Username:user
+2026-05-12 01:49:33 [Critical][Config-Log] [1]Terminal:WEB(192.168.1.58),UserName:user,Result:Success,Type:Set,X_HW_DEBUG.AMP.WifiCoverSetWlanBasic:,SSID:M-2.4G,SSIDAdvertisementEnabled:1,SsidInst:1,Enable:1,WMMEnable:1,STAIsolation:0,MaxAsso
+2026-05-12 01:49:33 [Critical][Config-Log] [2]ciateNum:64,SSID5G:M-5G,SSIDAdvertisementEnabled5G:1,SsidInst5G:5,Enable5G:1,WMMEnable5G:1,STAIsolation5G:0,MaxAssociateNum5G:64
+2026-05-12 01:49:33 [Critical][Config-Log] Terminal:WEB(192.168.1.58),UserName:user,Result:Success,Type:Set,InternetGatewayDevice.LANDevice.WLANConfiguration:1.1,SSID:M-2.4G,SSIDAdvertisementEnabled:1
+2026-05-12 01:49:33 [Critical][Config-Log] Terminal:WEB(192.168.1.58),UserName:user,Result:Success,Type:Set,InternetGatewayDevice.LANDevice.WLANConfiguration:1.5,SSID:M-5G,SSIDAdvertisementEnabled:1
+2026-05-12 01:49:33 [Critical][Config-Log] Terminal:WEB(192.168.1.58),UserName:user,Result:Success,Type:Set,X_HW_DEBUG.AMP.SetDualWifiCoverEnable:,RadioInst:2,FirstBandEnable:1
+2026-05-12 01:49:39 [Critical][Config-Log] Terminal:WEB(192.168.1.58),UserName:user,Result:Success,Type:Set,LANDevice.WiFi.Radio:1.2,Enable:1
+2026-05-12 01:49:40 [Critical][Config-Log] [1]Terminal:WEB(192.168.1.58),UserName:user,Result:Success,Type:Set,X_HW_DEBUG.AMP.WifiCoverSetWlanBasic:,SSID:M-2.4G,SSIDAdvertisementEnabled:1,SsidInst:1,Enable:1,WMMEnable:1,STAIsolation:0,MaxAsso
+2026-05-12 01:49:40 [Critical][Config-Log] [2]ciateNum:64,SSID5G:M-5G,SSIDAdvertisementEnabled5G:1,SsidInst5G:5,Enable5G:1,WMMEnable5G:1,STAIsolation5G:0,MaxAssociateNum5G:64
+2026-05-12 01:49:40 [Critical][Config-Log] Terminal:WEB(192.168.1.58),UserName:user,Result:Success,Type:Set,InternetGatewayDevice.LANDevice.WLANConfiguration:1.1,SSID:M-2.4G,SSIDAdvertisementEnabled:1
+2026-05-12 01:49:40 [Critical][Config-Log] Terminal:WEB(192.168.1.58),UserName:user,Result:Success,Type:Set,InternetGatewayDevice.LANDevice.WLANConfiguration:1.5,SSID:M-5G,SSIDAdvertisementEnabled:1
+2026-05-12 01:49:40 [Critical][Config-Log] [1]Terminal:WEB(192.168.1.58),UserName:user,Result:Success,Type:Set,X_HW_DEBUG.AMP.WifiCoverSetWlanBasic:,SSID:M-2.4G,SSIDAdvertisementEnabled:1,SsidInst:1,Enable:1,WMMEnable:1,STAIsolation:0,MaxAsso
+2026-05-12 01:49:40 [Critical][Config-Log] [2]ciateNum:64,SSID5G:M-5G,SSIDAdvertisementEnabled5G:1,SsidInst5G:5,Enable5G:1,WMMEnable5G:1,STAIsolation5G:0,MaxAssociateNum5G:64
+2026-05-12 01:49:40 [Critical][Config-Log] Terminal:WEB(192.168.1.58),UserName:user,Result:Success,Type:Set,X_HW_DEBUG.AMP.SetDualWifiCoverEnable:,RadioInst:2,FirstBandEnable:1
+2026-05-12 01:49:40 [Critical][Config-Log] Terminal:WEB(192.168.1.58),UserName:user,Result:Success,Type:Set,InternetGatewayDevice.LANDevice.WLANConfiguration:1.1,SSID:M-2.4G,SSIDAdvertisementEnabled:1
+2026-05-12 01:49:40 [Critical][Config-Log] Terminal:WEB(192.168.1.58),UserName:user,Result:Success,Type:Set,LANDevice.WiFi.Radio:1.2,Enable:1
+2026-05-12 01:49:40 [Critical][Config-Log] Terminal:WEB(192.168.1.58),UserName:user,Result:Success,Type:Set,InternetGatewayDevice.LANDevice.WLANConfiguration:1.5,SSID:M-5G,SSIDAdvertisementEnabled:1
+2026-05-12 01:49:40 [Critical][Config-Log] Terminal:WEB(192.168.1.58),UserName:user,Result:Success,Type:Set,X_HW_DEBUG.AMP.SetDualWifiCoverEnable:,RadioInst:2,FirstBandEnable:1
+2026-05-12 01:49:40 [Critical][Config-Log] Terminal:WEB(192.168.1.58),UserName:user,Result:Success,Type:Set,LANDevice.WiFi.Radio:1.2,Enable:1
+2026-05-12 01:49:40 [Critical][Config-Log] [1]Terminal:WEB(192.168.1.58),UserName:user,Result:Success,Type:Set,X_HW_DEBUG.AMP.WifiCoverSetWlanBasic:,SSID:M-2.4G,SSIDAdvertisementEnabled:1,SsidInst:1,Enable:1,WMMEnable:1,STAIsolation:0,MaxAsso
+2026-05-12 01:49:40 [Critical][Config-Log] [2]ciateNum:64,SSID5G:M-5G,SSIDAdvertisementEnabled5G:1,SsidInst5G:5,Enable5G:1,WMMEnable5G:1,STAIsolation5G:0,MaxAssociateNum5G:64
+2026-05-12 01:49:40 [Critical][Config-Log] Terminal:WEB(192.168.1.58),UserName:user,Result:Success,Type:Set,InternetGatewayDevice.LANDevice.WLANConfiguration:1.1,SSID:M-2.4G,SSIDAdvertisementEnabled:1
+2026-05-12 01:49:40 [Critical][Config-Log] Terminal:WEB(192.168.1.58),UserName:user,Result:Success,Type:Set,InternetGatewayDevice.LANDevice.WLANConfiguration:1.5,SSID:M-5G,SSIDAdvertisementEnabled:1
+2026-05-12 01:49:40 [Critical][Config-Log] Terminal:WEB(192.168.1.58),UserName:user,Result:Success,Type:Set,X_HW_DEBUG.AMP.SetDualWifiCoverEnable:,RadioInst:2,FirstBandEnable:1
+2026-05-12 01:49:40 [Critical][Config-Log] Terminal:WEB(192.168.1.58),UserName:user,Result:Success,Type:Set,LANDevice.WiFi.Radio:1.2,Enable:1
+2026-05-12 01:56:51 [Critical][Config-Log] Terminal:WEB(192.168.1.58),UserName:user,Result:Success,Type:Set,WANConnectionDevice.WANIPConnection.X_HW_DMZ:3.1.1,DMZEnable:0,DMZHostIPAddress:192.168.1.59
+2026-05-12 02:01:54 [Critical][Config-Log] Terminal:WEB(192.168.1.58),Result:Success,Type:Logout,Username:user
+2026-05-12 02:05:27 [Critical][Config-Log] Terminal:WEB(192.168.1.58),Result:Success,Type:Login,Username:user
+2026-05-12 02:07:39 [Critical][Config-Log] Terminal:WEB(192.168.1.58),UserName:user,Result:Success,Type:Set,WANConnectionDevice.WANIPConnection.X_HW_DMZ:3.1.1,DMZEnable:1,DMZHostIPAddress:192.168.1.58
+2026-05-12 02:12:42 [Critical][Config-Log] Terminal:WEB(192.168.1.58),UserName:user,Result:Success,Cmd:Logout,Reason:timeout
+2026-05-12 20:27:04 [Error][Alarm-Log] AlarmID:104509,AlarmLevel:Error,Software upgrading.Terminal:ACS
+2026-05-12 20:31:00 [Alert][Alarm-Log] AlarmID:104058,AlarmLevel:Alert,Software upgrade failed.Terminal:ACS
+2026-05-12 20:32:27 [Error][Alarm-Log] AlarmID:104001,AlarmLevel:Error,Device reset. Cause: [00014], Terminal:ACS
+2026-05-12 20:34:12 [Critical][Alarm-Log] Integrity check ok
+2026-05-12 20:58:49 [Critical][Config-Log] Terminal:WEB(192.168.1.58),Result:Success,Type:Login,Username:user
