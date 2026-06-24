@@ -2,7 +2,7 @@
 title: How to Use PSNTools Profile Cloner
 date: 2026-06-24
 author: tnebula
-description: Step-by-step guide on using PSNTools Profile Cloner to clone any PlayStation profile: copy their background color, avatar, and about me description.
+description: "Step-by-step guide on using PSNTools Profile Cloner to clone any PlayStation profile: copy their background color, avatar, and about me description."
 tags:
   - playstation
   - psn-tools
@@ -61,4 +61,4 @@ Finally, you can copy their **about me** or description section. This will clone
 
 ---
 
-If you don't have a PSNTools account yet, check out the guide on [how to create one](/posts/how-to-create-a-psn-tools-account-short).
+If you don't have a PSNTools account yet, check out the guide on [how to create one](/posts/how-to-create-a-psn-tools-account-short)

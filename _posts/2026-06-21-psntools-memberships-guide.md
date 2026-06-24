@@ -2,7 +2,7 @@
 title: PSNTools Memberships - Full Tier Comparison
 date: 2026-06-21
 author: tnebula
-description: Complete breakdown of every PSNTools membership tier: Bronze, Silver, Golden, and Platinum. Compare pricing, profile tools, avatar services, PSN checker, analytics, removers, and account secrets side by side.
+description: "Complete breakdown of every PSNTools membership tier: Bronze, Silver, Golden, and Platinum. Compare pricing, profile tools, avatar services, PSN checker, analytics, removers, and account secrets side by side."
 tags:
   - playstation
   - psn-tools

@@ -2,7 +2,7 @@
 title: How to Use PSNTools Profile Modder
 date: 2026-06-21
 author: tnebula
-description: Step-by-step guide on using PSNTools Profile Modder to customize your PlayStation profile: reset your avatar, change background image & color, edit your about me, & add custom symbols to your real name.
+description: "Step-by-step guide on using PSNTools Profile Modder to customize your PlayStation profile: reset your avatar, change background image & color, edit your about me, & add custom symbols to your real name."
 tags:
   - playstation
   - psn-tools
