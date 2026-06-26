@@ -86,6 +86,16 @@ Also, the technician told me it's not possible to replace the router
 
 Note: The Reddit post has been removed by the moderators. Not sure why they would since many posts have a similar issue to mine but didn't remove them.
 
+## Update: I Finally Found a Fix
+
+So after all that struggle, I switched to another provider called **Salam**. And you won't believe what happened — they sent me a text message on my number with the full PPPoE details. It was meant for the technician lmao. I burst with happiness when I saw it.
+
+I even asked the technician to do it for me and he had no clue what to do. Like bro, it's your job. So I just did it myself.
+
+I opened the ISP router's settings, grabbed the VLAN ID from there, put in the PPPoE credentials from the text message, and boom — it finally worked. My own router, fully connected, no DMZ, no double NAT, nothing. Just straight ONT → my Huawei router.
+
+So yeah, if you're stuck in the same situation: switch to Salam, get those PPPoE details (they literally text them to you), grab the VLAN ID from your ISP router's WAN settings, and you're golden.
+
 ## References
 
 - [How can I use my own router with a fiber ISP that locks their router?](https://www.reddit.com/r/HomeNetworking/comments/1mpe6pn/how_can_i_use_my_own_router_with_a_fiber_isp_that/)
