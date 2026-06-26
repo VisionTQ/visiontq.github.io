@@ -4,8 +4,8 @@
   icon: "fab fa-github"
 
 - type: fluxer
-  icon: "fas fa-download"
-  url: 'https://fluxer.app/'
+  icon: "fab fa-discord"
+  url: 'https://fluxer.gg/28MpEDfe'
 
 # - type: twitter
 #   icon: "fa-brands fa-x-twitter"
@@ -31,9 +31,9 @@
 #   icon: 'fab fa-stack-overflow'
 #   url:  ''                  # Fill with your stackoverflow homepage
 #
-- type: bluesky
-  icon: 'fa-brands fa-bluesky'
-  url: 'https://bsky.app/profile/tnebula0.bsky.social'
+- type: threads
+  icon: 'fa-brands fa-threads'
+  url: 'https://www.threads.com/@tnebula0'
 #
 # - type: reddit
 #   icon: 'fa-brands fa-reddit'

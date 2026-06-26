@@ -1,7 +1,7 @@
 ---
 icon: fas fa-info-circle
 order: 3
-title: About/Contact
+title: Contact
 ---
 
 # About Me

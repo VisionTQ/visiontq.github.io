@@ -39,7 +39,7 @@ social:
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     # The first element serves as the copyright owner's link
-    - https://bsky.app/profile/tnebula0.bsky.social # change to your GitHub homepage
+    - https://www.threads.com/@tnebula0 # change to your GitHub homepage
     # - https://twitter.com/username # change to your Twitter homepage
     - https://github.com/username # change to your GitHub homepage
     # Uncomment below to add more social links
