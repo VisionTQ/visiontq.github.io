@@ -3,6 +3,7 @@ title: "Best Free Speech-to-Text AI: Whisper AI"
 date: 2026-04-09
 author: tnebula
 description: A clean guide to using OpenAI Whisper in Google Colab to transcribe audio and video for free.
+image: /assets/whisper-ai/whisper-thumbnail.png
 tags:
   - openai
   - whisper
