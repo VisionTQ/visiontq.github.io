@@ -1,6 +1,6 @@
 ---
 icon: fas fa-info-circle
-order: 3
+order: 5
 title: Contact
 ---
 
