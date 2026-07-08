@@ -5,7 +5,6 @@ categories:
   - chirpy
 description: A collection of Chirpy-themed blogs I discovered through Google search, with notes on what I learned and reused from each.
 image: /assets/chirpy/chirpy-thumbnail.png
-hidden: true
 image_alt: guy looking at phone with magnifying glass meme
 ---
 
