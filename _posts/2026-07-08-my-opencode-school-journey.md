@@ -4,6 +4,8 @@ date: 2026-07-08
 categories:
   - opencode
 description: I completed all 14 OpenCode School lessons. Here's what I learned, what I built, and how it changed the way I work with AI.
+image: /assets/opencode/journey.png
+image_alt: Robert Downey, junior smiling and there is a text right beside him saying, My open code journey.
 
 ---
 
