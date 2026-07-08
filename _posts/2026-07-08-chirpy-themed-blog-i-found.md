@@ -1,6 +1,6 @@
 ---
 title: Chirpy themed Blogs I Found
-date: 2026-07-08 00:00:00 +0300
+date: 2026-07-08
 categories:
   - chirpy
 description: A collection of Chirpy-themed blogs I discovered through Google search, with notes on what I learned and reused from each.
