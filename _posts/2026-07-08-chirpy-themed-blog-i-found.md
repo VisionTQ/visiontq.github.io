@@ -1,8 +1,12 @@
 ---
-title: Chirpy-Themed Blog I Found
+title: Chirpy themed Blogs I Found
 date: 2026-07-08 00:00:00 +0300
-categories: [chirpy]
+categories:
+  - chirpy
 description: A collection of Chirpy-themed blogs I discovered through Google search, with notes on what I learned and reused from each.
+image: /assets/chirpy/chirpy-thumbnail.png
+hidden: true
+image_alt: guy looking at phone with magnifying glass meme
 ---
 
 I went searching for other Chirpy-themed blogs to see how people customize theirs and what kinds of content they publish. Here are the ones I found through Google, along with how I discovered them.
@@ -15,7 +19,7 @@ I went searching for other Chirpy-themed blogs to see how people customize their
 - [Rafferty Uy — Raztype](https://raffertyuy.com/raztype/repo-of-repos-pattern/)
 - [Cloud Utsuk](https://cloudutsuk.com/)
 - [REPS — Open Robotics](https://reps.openrobotics.org/tags/)
-- [Bruce Renner](https://docs.brucerenner.com.au/about/)
+- [Bruce Renner](https://docs.brucerenner.com.au/about/) - Subtitle 
 - [Yunseo Kim](https://www.yunseo.kim/about/)
 - [Led Kvu](https://ledkvu.com/about/)
 - [WX Guy](https://wxguy.in/)

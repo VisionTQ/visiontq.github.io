@@ -3,9 +3,6 @@ icon: fas fa-envelope
 order: 5
 title: Contact
 ---
-
-# Contact
-
 The best way to reach me is via email. I love email and rarely bother to check messages on Discord (or social media in general). More details below.
 
 ## Getting in Touch

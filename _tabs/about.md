@@ -1,11 +1,8 @@
 ---
 icon: fas fa-user
 order: 4
-title: About
+title: About me
 ---
-
-# About Me
-
 Hi! My name is Tariq Hsian, or you can call me T for short. I'm from Saudi Arabia and I'm someone who's always curious and trying to learn something new every day.
 
 ![Me (on the right) at Columbia International School in Japan](/assets/img/schoollife01.jpg)
