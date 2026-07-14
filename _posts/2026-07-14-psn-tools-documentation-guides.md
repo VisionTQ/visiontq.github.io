@@ -7,11 +7,14 @@ description: The documentation guides I wrote for PSNTools, with custom images a
 image: /assets/img/psn-tools/psntools-documentation-guides.png
 ---
 
+Every page on [docs.psntools.com](https://docs.psntools.com) was written and designed by me, from the step-by-step guides to the custom screenshots and visuals.
+
 This post focuses on the visual and design side: custom images, screenshots, and graphics I created for each documentation guide.
 
 ## Getting Started
 - [Create Account](https://docs.psntools.com/getting-started/create-account)
 - [Change Password](https://docs.psntools.com/getting-started/change-password)
+- [Team & Support](https://docs.psntools.com/getting-started/team-and-support)
 
 ## Profile Tools
 - [PSN Checker](https://docs.psntools.com/profile-tools/psn-checker)
@@ -26,7 +29,7 @@ This post focuses on the visual and design side: custom images, screenshots, and
 ## Analytics & Billing
 - [Purchase Analytics](https://docs.psntools.com/analytics/purchase-analytics)
 - [Memberships](https://docs.psntools.com/billing/memberships)
-- [Manage Subscription](/posts/managing-your-psntools-subscription/)
+- [Manage Subscription](https://docs.psntools.com/billing/managing-your-subscription)
 
 ## Security
 - [NPSSO Token](https://docs.psntools.com/security/npsso-token)
