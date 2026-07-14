@@ -1,6 +1,6 @@
 ---
 title: My Experience with UAP (Qubool) Saudi University Admissions
-date: 2026-07-14
+date: 2026-07-14 16:00:00 +0300
 categories:
   - Education
 image: /assets/img/uap-thumbnail.png
