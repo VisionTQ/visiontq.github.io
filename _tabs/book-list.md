@@ -1,10 +1,8 @@
 ---
 icon: fas fa-bookmark
-order: 5
+order: 4
 title: Book List
 ---
-
-# Book List
 
 ![Read books](/assets/img/booklist-quote.png)
 
