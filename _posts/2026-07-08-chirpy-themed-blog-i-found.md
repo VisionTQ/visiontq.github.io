@@ -15,10 +15,10 @@ I went searching for other Chirpy-themed blogs to see how people customize their
 - [Rich Hewlett](https://richhewlett.com/categories/)
 - [YZ Cai](https://yz-cai.github.io/)
 - [Geng Xiuli](https://gengxiuli.com/about/)
-- [Rafferty Uy — Raztype](https://raffertyuy.com/raztype/repo-of-repos-pattern/)
+- [Rafferty Uy — Raztype](https://raffertyuy.com/raztype/repo-of-repos-pattern/) - I liked the idea of the book list, so I implemented it on my website.
 - [Cloud Utsuk](https://cloudutsuk.com/)
 - [REPS — Open Robotics](https://reps.openrobotics.org/tags/)
-- [Bruce Renner](https://docs.brucerenner.com.au/about/) - Subtitle 
+- [Bruce Renner](https://docs.brucerenner.com.au/about/) - I liked how his subtitle looked under his profile image, so I made my own version.
 - [Yunseo Kim](https://www.yunseo.kim/about/)
 - [Led Kvu](https://ledkvu.com/about/)
 - [WX Guy](https://wxguy.in/)
