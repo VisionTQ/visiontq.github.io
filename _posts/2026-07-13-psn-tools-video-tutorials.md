@@ -11,7 +11,7 @@ These are the public tutorial videos I created for the [PSNTools YouTube channel
 
 {% include embed/youtube.html id='5jqvS7ClmMA' %}
 
-{% include embed/youtube.html id='cL5jQ706QtY' %}
+{% include embed/youtube.html id='cL5jJ706QtY' %}
 
 *Draft placeholder -- more details coming soon. I also created many more videos for the channel, but they are either outdated or haven't been uploaded yet.*
 
