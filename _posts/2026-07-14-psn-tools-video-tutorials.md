@@ -1,12 +1,12 @@
 ---
-title: Videos I Created for PSN Tools
+title: Videos I Created for PSNTools
 date: 2026-07-14
 categories: [projects]
 tags: [psn-tools, youtube, video, portfolio]
-description: A look at the tutorial videos I produced for the PSN Tools YouTube channel.
+description: A look at the tutorial videos I produced for the PSNTools YouTube channel.
 ---
 
-These are the public tutorial videos I created for the [PSN Tools YouTube channel](https://www.youtube.com/@psntools).
+These are the public tutorial videos I created for the [PSNTools YouTube channel](https://www.youtube.com/@psntools).
 
 {% include embed/youtube.html id='5jqvS7ClmMA' %}
 

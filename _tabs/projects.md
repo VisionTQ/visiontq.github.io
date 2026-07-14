@@ -8,6 +8,6 @@ title: Projects
 
 | Project | Contribution | In Detail |
 |---------|-------------|-----------|
-| PSN Tools | Logo design | [How I designed the PSN Tools logo](/posts/psn-tools-logo-design/) |
-| PSN Tools | Video tutorials | [Videos I created for PSN Tools](/posts/psn-tools-video-tutorials/) |
-| PSN Tools | Documentation guides | [Guides and images I made for PSN Tools docs](/posts/psn-tools-documentation-guides/) |
+| PSNTools | Logo design | [How I designed the PSNTools logo](/posts/psn-tools-logo-design/) |
+| PSNTools | Video tutorials | [Videos I created for PSNTools](/posts/psn-tools-video-tutorials/) |
+| PSNTools | Documentation guides | [Guides and images I made for PSNTools docs](/posts/psn-tools-documentation-guides/) |
