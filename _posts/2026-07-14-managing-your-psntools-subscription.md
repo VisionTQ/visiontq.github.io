@@ -1,17 +1,21 @@
 ---
 title: Managing Your PSNTools Subscription
 date: 2026-07-14
-categories: [psntools]
-tags: [psn-tools, subscription, billing, membership, guide]
+categories:
+  - psntools
+tags:
+  - psn-tools
+  - subscription
+  - billing
+  - membership
+  - guide
 hidden: true
+description: A step-by-step guide to managing your PSNTools subscription and billing settings.
 ---
-
-A step-by-step guide to managing your PSNTools subscription and billing settings.
-
 ## Accessing Your Subscription Settings
 
 1. Go to the PSNTools website. On the main page, look at the top right corner and click on your profile picture.
-2. From the dropdown menu, click on **Redeemed Code**.
+2. From the dropdown menu, click on **Redeem Code**.
 
 ![Redeemed code page](/assets/img/psn-tools/psntools-subscription-01.png)
 
