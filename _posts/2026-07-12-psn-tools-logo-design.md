@@ -1,6 +1,6 @@
 ---
 title: How I Designed the PSNTools Logo
-date: 2026-07-14
+date: 2026-07-12
 categories: [projects]
 tags: [psn-tools, logo-design, portfolio]
 description: The story behind designing the PSNTools logo.
