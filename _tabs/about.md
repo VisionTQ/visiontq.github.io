@@ -1,6 +1,6 @@
 ---
 icon: fas fa-user
-order: 4
+order: 5
 title: About me
 ---
 Hi! My name is Tariq Hsian, or you can call me T for short. I'm from Saudi Arabia and I'm someone who's always curious and trying to learn something new every day.
