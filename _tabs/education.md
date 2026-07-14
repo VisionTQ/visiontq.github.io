@@ -8,13 +8,18 @@ title: Education
 
 My studies, certifications, and learning journey.
 
-### Japan
+### Columbia International School JAPAN
 
-**Columbia International School** — 3rd and 4th grade
+![Columbia International School](/assets/img/columbia-international-school.png)
+_3rd and 4th grade_
 
-### Saudi Arabia
+### Middle School
 
-**Middle school** and **high school**
+Saudi Arabia
+
+### High School 
+
+Saudi Arabia
 
 ### University
 
