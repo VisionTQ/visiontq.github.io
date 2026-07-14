@@ -9,8 +9,13 @@ image: /assets/img/psn-tools/psntools-video-tutorials.png
 
 These are the public tutorial videos I created for the [PSNTools YouTube channel](https://www.youtube.com/@psntools).
 
+{% include embed/youtube.html id='xcxGhda_9Dc' %}
+{% include embed/youtube.html id='Jiered5pQOA' %}
+{% include embed/youtube.html id='AuLj21YMY8o' %}
 {% include embed/youtube.html id='5jqvS7ClmMA' %}
-
+{% include embed/youtube.html id='cUGazuNgV3c' %}
+{% include embed/youtube.html id='zAuCYJ-ywco' %}
+{% include embed/youtube.html id='YSCbVc9XLcA' %}
 {% include embed/youtube.html id='cL5jJ706QtY' %}
 
 *Draft placeholder -- more details coming soon. I also created many more videos for the channel, but they are either outdated or haven't been uploaded yet.*
