@@ -3,7 +3,7 @@ title: Guides and Images I Made for PSNTools Docs
 date: 2026-07-14
 categories: [projects]
 tags: [psn-tools, documentation, technical-writing, images, portfolio]
-description: The 11 documentation guides I wrote for PSNTools, with custom images and visuals for each one.
+description: The documentation guides I wrote for PSNTools, with custom images and visuals for each one.
 image: /assets/img/psn-tools/psntools-documentation-guides.png
 ---
 
@@ -26,6 +26,7 @@ This post focuses on the visual and design side: custom images, screenshots, and
 ## Analytics & Billing
 - [Purchase Analytics](https://docs.psntools.com/analytics/purchase-analytics)
 - [Memberships](https://docs.psntools.com/billing/memberships)
+- [Manage Subscription](/posts/managing-your-psntools-subscription/)
 
 ## Security
 - [NPSSO Token](https://docs.psntools.com/security/npsso-token)
