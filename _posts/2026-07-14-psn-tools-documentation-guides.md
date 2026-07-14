@@ -4,6 +4,7 @@ date: 2026-07-14
 categories: [projects]
 tags: [psn-tools, documentation, technical-writing, images, portfolio]
 description: The 11 documentation guides I wrote for PSNTools, with custom images and visuals for each one.
+image: /assets/img/psn-tools/psntools-documentation-guides.png
 ---
 
 This post focuses on the visual and design side: custom images, screenshots, and graphics I created for each documentation guide.

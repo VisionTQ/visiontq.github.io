@@ -4,6 +4,7 @@ date: 2026-07-14
 categories: [projects]
 tags: [psn-tools, youtube, video, portfolio]
 description: A look at the tutorial videos I produced for the PSNTools YouTube channel.
+image: /assets/img/psn-tools/psntools-video-tutorials.png
 ---
 
 These are the public tutorial videos I created for the [PSNTools YouTube channel](https://www.youtube.com/@psntools).
