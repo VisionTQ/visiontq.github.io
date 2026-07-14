@@ -6,6 +6,8 @@ title: Book List
 
 # Book List
 
+![Read books](/assets/img/booklist-quote.png)
+
 This page is more for me than for my readers. It's one of my ways to keep track of what I read.
 
 You may read this list for one of two reasons:
