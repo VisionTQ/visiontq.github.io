@@ -1,7 +1,7 @@
 ---
-icon: fas fa-bookmark
+icon: fas fa-clapperboard
 order: 4
-title: Book List
+title: Media
 ---
 
 ![Read books](/assets/img/booklist-quote.png)
@@ -16,3 +16,14 @@ You may read this list for one of two reasons:
 If neither of those applies, then don't waste your time and read something else.
 
 ## Books
+
+- *The Elements of Eloquence* by Mark Forsyth *(In progress)*
+- *Accents & Dialects for Stage and Screen* by Paul Meier *(In progress)*
+
+
+# TV Shows
+
+### Daredevil - Memorable quotes
+
+[He tends to use fancy terminology](/posts/fancy-terminology/)
+

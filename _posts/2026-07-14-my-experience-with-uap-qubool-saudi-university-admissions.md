@@ -69,6 +69,16 @@ This means this preference is the highest probability of acceptance according to
 
 I've submitted my applications and I'm waiting. I'll update this post as I get results.
 
+
+
+## UPDATE
+
+![Admission results announcement](/assets/img/uap-results-pending.png)
+
+Everyone got this page. It says:
+
+"Admission results will be announced soon through official channels."
+
 ---
 
 If you're also applying this year, hopefully this helps. If you have questions about something specific, let me know and I'll add it.

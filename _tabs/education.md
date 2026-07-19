@@ -19,8 +19,23 @@ Saudi Arabia
 
 ### High School 
 
-Saudi Arabia
+Al Bukayriah Secondary School - KSA
+- Graduated 2025 (1446H)
+- Overall average: **96.56% — Excellent+**
+Near-perfect scores in English, Computer Science, and Chemistry.
 
+Note:
+
+School grades are meaningless to me. Grades do not measure creativity, emotional intelligence, or real-life problem-solving skills.
+
+If you get bad grades, there are a multitude of reasons why. You might be working your ass off and still failing, but I believe in you. You are not just lazy. Grades do not determine your worth. 
 ### University
 
 Currently applying for admission.
+
+
+# Languages
+
+English (Fluent)
+Arabic (Native)
+Japanese (Beginner -- knew it while living in Japan, forgot most of it after moving to Saudi Arabia, currently relearning)
