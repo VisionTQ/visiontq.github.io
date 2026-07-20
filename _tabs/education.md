@@ -22,6 +22,7 @@ Saudi Arabia
 Al Bukayriah Secondary School - KSA
 - Graduated 2025 (1446H)
 - Overall average: **96.56% — Excellent+**
+  
 Near-perfect scores in English, Computer Science, and Chemistry.
 
 Note:

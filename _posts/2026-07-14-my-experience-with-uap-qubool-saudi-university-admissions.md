@@ -79,6 +79,18 @@ Everyone got this page. It says:
 
 "Admission results will be announced soon through official channels."
 
+
+
+## UPDATE 2
+
+![Admission confirmation](/assets/img/uap-acceptance.png)
+
+I got accepted at Umm Al-Qura University in my third-choice program.
+
+I received a confirmation message saying my spot has been reserved.
+
+This is guaranteed but not final. The UAP system calls this the "Remaining Opportunities" stage. The system automatically tries to upgrade your admission to a higher-ranked major from your preferences. If a spot opens up in my first or second choice, I'll be notified and can move up. Either way, my spot at Umm Al-Qura is secure.
+
 ---
 
 If you're also applying this year, hopefully this helps. If you have questions about something specific, let me know and I'll add it.
