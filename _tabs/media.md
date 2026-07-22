@@ -17,7 +17,7 @@ If neither of those applies, then don't waste your time and read something else.
 
 ## Books
 
-- *The Elements of Eloquence* by Mark Forsyth *(In progress)*
+- *The Elements of Eloquence* by Mark Forsyth *([In progress](/posts/the-elements-of-eloquence-notes/))*
 - *Accents & Dialects for Stage and Screen* by Paul Meier *(In progress)*
 
 
