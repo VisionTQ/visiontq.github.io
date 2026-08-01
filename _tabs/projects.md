@@ -1,6 +1,6 @@
 ---
 icon: fas fa-code
-order: 3
+order: 4
 title: Projects
 ---
 

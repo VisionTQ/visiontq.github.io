@@ -1,15 +1,19 @@
 ---
 icon: fas fa-user
-order: 5
+order: 7
 title: About me
 ---
+
+![Me (on the right) at Columbia International School in Japan](/assets/img/schoollife01.jpg){: .left w="300" h="150" }
+
 Hi! My name is Tariq Hsian, or you can call me T for short. I'm from Saudi Arabia and I'm someone who's always curious and trying to learn something new every day.
 
-![Me (on the right) at Columbia International School in Japan](/assets/img/schoollife01.jpg)
 _This is me (on the right, the awkward one) back when I didn't speak a single word of English, at [Columbia International School](https://columbia-ca.co.jp/en) in Japan._
 
+---
+
 ![Tariq in Saudi Arabia](/assets/img/tariq-current.jpg)
-_Currently in Saudi Arabia, applying for universities._
+_Currently in Saudi Arabia. Accepted at Umm Al-Qura University in Mecca, majoring in English._
 
 ## About This Site
 

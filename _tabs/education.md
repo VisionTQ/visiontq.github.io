@@ -32,11 +32,11 @@ School grades are meaningless to me. Grades do not measure creativity, emotional
 If you get bad grades, there are a multitude of reasons why. You might be working your ass off and still failing, but I believe in you. You are not just lazy. Grades do not determine your worth. 
 ### University
 
-Currently applying for admission.
+Accepted at Umm Al-Qura University in Mecca, majoring in English.
 
 
 # Languages
 
-English (Fluent)
-Arabic (Native)
-Japanese (Beginner -- knew it while living in Japan, forgot most of it after moving to Saudi Arabia, currently relearning)
+- English (Fluent)
+- Arabic (Native)
+- Japanese _(Beginner -- knew it while living in Japan, forgot most of it after moving to Saudi Arabia, currently relearning)_

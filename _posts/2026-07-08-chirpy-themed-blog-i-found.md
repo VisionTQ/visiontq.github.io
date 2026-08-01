@@ -12,7 +12,7 @@ I went searching for other Chirpy-themed blogs to see how people customize their
 
 ## The blogs
 
-- [Rich Hewlett](https://richhewlett.com/categories/)
+- [Rich Hewlett](https://richhewlett.com/categories/) - used the themes image feature to align my image to the left
 - [YZ Cai](https://yz-cai.github.io/)
 - [Geng Xiuli](https://gengxiuli.com/about/)
 - [Rafferty Uy — Raztype](https://raffertyuy.com/raztype/repo-of-repos-pattern/) - I liked the idea of the book list, so I implemented it on my website.
