@@ -1,17 +1,17 @@
 ---
-title: "English Structure 2 (ENG1103)"
+title: "English Structure 1 (ENG1103)"
 date: 2026-08-31 00:00:00 +0300
 author: tnebula
 categories: [UQU Courses]
 tags: [uqu, eng1103, english, grammar, courses]
-description: "Course info for English Structure 2 (ENG1103), Section 2: instructor, textbook, course outline, and grading."
-permalink: /posts/english-structure-2-eng1103/
+description: "Course info for English Structure 1 (ENG1103), Section 2: instructor, textbook, course outline, and grading."
+permalink: /posts/english-structure-1-eng1103/
 hidden: true
 ---
 
 | English | العربية |
 | :---: | :---: |
-| [English](/posts/english-structure-2-eng1103/) | [العربية](/posts/english-structure-2-eng1103-ar/) |
+| [English](/posts/english-structure-1-eng1103/) | [العربية](/posts/english-structure-1-eng1103-ar/) |
 
 **Course Code:** ENG1103  
 **Activity:** Theoretical (نظري)  
@@ -45,3 +45,8 @@ Sandra N. Elbaum. 2021. *Grammar in Context 2.* (Latest edition available) Cenga
 - Spark Exercises: **10%**
 - Midterm: **30%**
 - Final: **50%**
+
+---
+
+> Made by Tariq Sagr Hsian, a student at Umm Al-Qura University. Found a mistake or something unclear? [Email me](mailto:s448001408@uqu.edu.sa) and I'll fix it.
+{: .prompt-info }

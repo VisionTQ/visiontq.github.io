@@ -1,18 +1,18 @@
 ---
-title: "تراكيب اللغة الإنجليزية 2 (ENG1103)"
+title: "تراكيب اللغة الإنجليزية 1 (ENG1103)"
 date: 2026-08-31 00:00:00 +0300
 author: tnebula
 lang: ar
 categories: [UQU Courses]
 tags: [uqu, eng1103, english, grammar, courses]
-description: "معلومات مقرر تراكيب اللغة الإنجليزية 2 (ENG1103)، شعبة 2: الأستاذ، الكتاب المقرر، الخطة، والتقييم."
-permalink: /posts/english-structure-2-eng1103-ar/
+description: "معلومات مقرر تراكيب اللغة الإنجليزية 1 (ENG1103)، شعبة 2: الأستاذ، الكتاب المقرر، الخطة، والتقييم."
+permalink: /posts/english-structure-1-eng1103-ar/
 hidden: true
 ---
 
 | العربية | English |
 | :---: | :---: |
-| [العربية](/posts/english-structure-2-eng1103-ar/) | [English](/posts/english-structure-2-eng1103/) |
+| [العربية](/posts/english-structure-1-eng1103-ar/) | [English](/posts/english-structure-1-eng1103/) |
 
 **رمز المقرر:** ENG1103  
 **النشاط:** نظري  
@@ -46,3 +46,8 @@ Sandra N. Elbaum. 2021. *Grammar in Context 2.* (أحدث إصدار متاح) C
 - تمارين Spark: **10%**
 - الامتحان النصفي: **30%**
 - الامتحان النهائي: **50%**
+
+---
+
+> صُنع بواسطة طارق صقر حسين، طالب في جامعة أم القرى. وجدت خطأ أو شيء غير واضح؟ [راسلني](mailto:s448001408@uqu.edu.sa) وسأصلحه.
+{: .prompt-info }

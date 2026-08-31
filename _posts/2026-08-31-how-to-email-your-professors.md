@@ -27,3 +27,8 @@ Please write clearly what is required when sending email messages, and include t
 - Section number
 
 Best of luck.
+
+---
+
+> Made by Tariq Sagr Hsian, a student at Umm Al-Qura University. Found a mistake or something unclear? [Email me](mailto:s448001408@uqu.edu.sa) and I'll fix it.
+{: .prompt-info }

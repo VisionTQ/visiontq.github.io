@@ -14,3 +14,8 @@ hidden: true
 | [English](/posts/communication-skills-lesson-1/) | [العربية](/posts/communication-skills-lesson-1-ar/) |
 
 It is the process through which an **interaction** takes place between a **sender** and a **receiver** through a **message**, conveyed via a **medium**.
+
+---
+
+> Made by Tariq Sagr Hsian, a student at Umm Al-Qura University. Found a mistake or something unclear? [Email me](mailto:s448001408@uqu.edu.sa) and I'll fix it.
+{: .prompt-info }

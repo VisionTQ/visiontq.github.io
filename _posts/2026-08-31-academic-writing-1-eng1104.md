@@ -39,3 +39,8 @@ _To be added._
 ## WhatsApp Group
 
 <https://chat.whatsapp.com/CBJOMmAKzwv5TV6lkJwtr2>
+
+---
+
+> Made by Tariq Sagr Hsian, a student at Umm Al-Qura University. Found a mistake or something unclear? [Email me](mailto:s448001408@uqu.edu.sa) and I'll fix it.
+{: .prompt-info }

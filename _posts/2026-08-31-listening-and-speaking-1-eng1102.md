@@ -72,3 +72,8 @@ Becky Tarver Chase, Kristin L. Johannsen, Paul MacIntyre, Kathy Najafi, Cathy Fi
 Speaking & Listening (Everyone): <https://chat.whatsapp.com/LFm8gyrlZdwGKyv8GD23z5>
 
 Section 7: to join, contact the group supervisor: +966 50 477 6843
+
+---
+
+> Made by Tariq Sagr Hsian, a student at Umm Al-Qura University. Found a mistake or something unclear? [Email me](mailto:s448001408@uqu.edu.sa) and I'll fix it.
+{: .prompt-info }

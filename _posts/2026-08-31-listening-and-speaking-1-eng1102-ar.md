@@ -23,7 +23,7 @@ hidden: true
 
 ## الكتاب المقرر
 
-Becky Tarver Chase, Kristin L. Johannsen, Paul MacIntyre, Kathy Najafi, Cathy Fitzpatrick, Patricia. *Listening, Speaking and Critical Thinking 1.* (Boston: National Geographic Learning، أحدث إصدار متاح).
+Becky Tarver Chase, Kristin L. Johannsen, Paul MacIntyre, Kathy Najafi, Cathy Fitzpatrick, Patricia. *Listening, Speaking and Critical Thinking 1.* (Boston: National Geographic Learning, أحدث إصدار متاح).
 
 ## التقييم
 
@@ -73,3 +73,8 @@ Becky Tarver Chase, Kristin L. Johannsen, Paul MacIntyre, Kathy Najafi, Cathy Fi
 التحدث والاستماع (الكل): <https://chat.whatsapp.com/LFm8gyrlZdwGKyv8GD23z5>
 
 شعبة 7: للانضمام، تواصل مع مشرف المجموعة: +966 50 477 6843
+
+---
+
+> صُنع بواسطة طارق صقر حسين، طالب في جامعة أم القرى. وجدت خطأ أو شيء غير واضح؟ [راسلني](mailto:s448001408@uqu.edu.sa) وسأصلحه.
+{: .prompt-info }
