@@ -3,7 +3,7 @@ title: "التحدث والاستماع 1 (ENG1102)"
 date: 2026-08-31 00:00:00 +0300
 author: tnebula
 lang: ar
-categories: [Student Life]
+categories: [UQU Courses]
 tags: [uqu, eng1102, listening, speaking, courses]
 description: "معلومات مقرر التحدث والاستماع 1 (ENG1102)، شعبة 7: الأستاذ، الكتاب المقرر، التقييم، الخطة، ومجموعة الواتساب."
 permalink: /posts/listening-and-speaking-1-eng1102-ar/

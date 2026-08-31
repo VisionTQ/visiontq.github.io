@@ -2,7 +2,7 @@
 title: "Listening & Speaking 1 (ENG1102)"
 date: 2026-08-31 00:00:00 +0300
 author: tnebula
-categories: [Student Life]
+categories: [UQU Courses]
 tags: [uqu, eng1102, listening, speaking, courses]
 description: "Course info for Listening & Speaking 1 (ENG1102), Section 7: instructor, textbook, assessment, course outline, and WhatsApp group."
 permalink: /posts/listening-and-speaking-1-eng1102/

@@ -2,7 +2,7 @@
 title: "Academic Writing 1 (ENG1104)"
 date: 2026-08-31 00:00:00 +0300
 author: tnebula
-categories: [Student Life]
+categories: [UQU Courses]
 tags: [uqu, eng1104, writing, academic, courses]
 description: "Course info for Academic Writing 1 (ENG1104), Section 5: instructor, textbook, and WhatsApp group."
 permalink: /posts/academic-writing-1-eng1104/

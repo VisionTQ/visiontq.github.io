@@ -2,7 +2,7 @@
 title: "English Structure 2 (ENG1103)"
 date: 2026-08-31 00:00:00 +0300
 author: tnebula
-categories: [Student Life]
+categories: [UQU Courses]
 tags: [uqu, eng1103, english, grammar, courses]
 description: "Course info for English Structure 2 (ENG1103), Section 2: instructor, textbook, course outline, and grading."
 permalink: /posts/english-structure-2-eng1103/
@@ -17,7 +17,7 @@ hidden: true
 **Activity:** Theoretical (نظري)  
 **Section:** 2  
 **Credit Hours:** 3  
-**Instructor:** Sameer Aliabri ([ssiabri@qu.edu.sa](mailto:ssiabri@qu.edu.sa))  
+**Instructor:** Sameer Aliabri ([ssiabri@uqu.edu.sa](mailto:ssiabri@uqu.edu.sa))  
 **Office Hours:** Wednesday 10-1  
 **Semester:** 1st Semester 1448 H
 

@@ -3,7 +3,7 @@ title: "القراءة والاستيعاب 1 (ENG1101)"
 date: 2026-08-31 00:00:00 +0300
 author: tnebula
 lang: ar
-categories: [Student Life]
+categories: [UQU Courses]
 tags: [uqu, eng1101, reading, comprehension, courses]
 description: "معلومات مقرر القراءة والاستيعاب 1 (ENG1101)، شعبة 4: الأستاذ، الكتاب المقرر، ومجموعة الواتساب."
 permalink: /posts/reading-and-comprehension-1-eng1101-ar/

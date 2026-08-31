@@ -3,7 +3,7 @@ title: "كيف تراسل أساتذتك عبر البريد الإلكترون�
 date: 2026-08-31 00:00:00 +0300
 author: tnebula
 lang: ar
-categories: [Student Life]
+categories: [UQU Tips]
 tags: [uqu, email, professors, students, tips]
 description: "البيانات المطلوبة عند إرسال رسائل البريد الإلكتروني للأساتذة: اسم الطالب، الرقم الجامعي، اسم المقرر، ورقم الشعبة."
 permalink: /posts/how-to-email-your-professors-ar/

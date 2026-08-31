@@ -3,7 +3,7 @@ title: "تراكيب اللغة الإنجليزية 2 (ENG1103)"
 date: 2026-08-31 00:00:00 +0300
 author: tnebula
 lang: ar
-categories: [Student Life]
+categories: [UQU Courses]
 tags: [uqu, eng1103, english, grammar, courses]
 description: "معلومات مقرر تراكيب اللغة الإنجليزية 2 (ENG1103)، شعبة 2: الأستاذ، الكتاب المقرر، الخطة، والتقييم."
 permalink: /posts/english-structure-2-eng1103-ar/
@@ -18,7 +18,7 @@ hidden: true
 **النشاط:** نظري  
 **الشعبة:** 2  
 **الساعات:** 3  
-**المحاضر:** سمير صالح سليمان الجابري ([ssiabri@qu.edu.sa](mailto:ssiabri@qu.edu.sa))  
+**المحاضر:** سمير صالح سليمان الجابري ([ssiabri@uqu.edu.sa](mailto:ssiabri@uqu.edu.sa))  
 **الساعات المكتبية:** الأربعاء 10-1  
 **الفصل الدراسي:** الفصل الأول 1448هـ
 

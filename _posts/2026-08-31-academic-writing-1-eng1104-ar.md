@@ -3,7 +3,7 @@ title: "الكتابة الأكاديمية 1 (ENG1104)"
 date: 2026-08-31 00:00:00 +0300
 author: tnebula
 lang: ar
-categories: [Student Life]
+categories: [UQU Courses]
 tags: [uqu, eng1104, writing, academic, courses]
 description: "معلومات مقرر الكتابة الأكاديمية 1 (ENG1104)، شعبة 5: الأستاذ، الكتاب المقرر، ومجموعة الواتساب."
 permalink: /posts/academic-writing-1-eng1104-ar/

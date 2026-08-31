@@ -2,7 +2,7 @@
 title: "Reading & Comprehension 1 (ENG1101)"
 date: 2026-08-31 00:00:00 +0300
 author: tnebula
-categories: [Student Life]
+categories: [UQU Courses]
 tags: [uqu, eng1101, reading, comprehension, courses]
 description: "Course info for Reading & Comprehension 1 (ENG1101), Section 4: instructor, textbook, and WhatsApp group."
 permalink: /posts/reading-and-comprehension-1-eng1101/

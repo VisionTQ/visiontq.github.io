@@ -2,7 +2,7 @@
 title: "How to Email Your Professors"
 date: 2026-08-31 00:00:00 +0300
 author: tnebula
-categories: [Student Life]
+categories: [UQU Tips]
 tags: [uqu, email, professors, students, tips]
 description: "What to include at the bottom of an email to your professors: student name, university ID, course name, and section number."
 permalink: /posts/how-to-email-your-professors/
