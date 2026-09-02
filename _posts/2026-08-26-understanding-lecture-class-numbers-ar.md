@@ -6,7 +6,6 @@ lang: ar
 categories: [Student Life]
 tags: [uqu, saudi-arabia, campus, students, guide]
 description: "شرح طريقة فهم رقم قاعة المحاضرة في خريطة جامعة أم القرى، بما في ذلك رقم المبنى والطابق."
-permalink: /posts/understanding-lecture-class-numbers-at-uqu-ar/
 image: /assets/uqu/uqu-lecture-class-thumbnail.png
 hidden: true
 ---

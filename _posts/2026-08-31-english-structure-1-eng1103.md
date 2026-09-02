@@ -5,7 +5,6 @@ author: tnebula
 categories: [UQU Courses]
 tags: [uqu, eng1103, english, grammar, courses]
 description: "Course info for English Structure 1 (ENG1103), Section 2: instructor, textbook, course outline, and grading."
-permalink: /posts/english-structure-1-eng1103/
 hidden: true
 ---
 

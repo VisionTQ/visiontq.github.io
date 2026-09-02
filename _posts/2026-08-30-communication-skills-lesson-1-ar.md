@@ -6,7 +6,6 @@ lang: ar
 categories: [Communication Skills]
 tags: [communication-skills, lesson-1, study-notes]
 description: "تعريف مهارات الاتصال: العملية التي يتم بها تفاعل بين المرسل والمستقبل عن طريق الرسالة ومن خلال الوسيلة."
-permalink: /posts/communication-skills-lesson-1-ar/
 hidden: true
 ---
 

@@ -5,7 +5,6 @@ author: tnebula
 categories: [Communication Skills]
 tags: [communication-skills, lesson-1, study-notes]
 description: "The definition of communication skills: the process of interaction between a sender and a receiver through a message conveyed via a medium."
-permalink: /posts/communication-skills-lesson-1/
 hidden: true
 ---
 

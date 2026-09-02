@@ -5,7 +5,6 @@ author: tnebula
 categories: [Student Life]
 tags: [uqu, saudi-arabia, campus, students, guide]
 description: "How to read the lecture class number on the UQU campus map, including building and floor numbers."
-permalink: /posts/understanding-lecture-class-numbers-at-uqu/
 image: /assets/uqu/uqu-lecture-class-thumbnail.png
 hidden: true
 ---

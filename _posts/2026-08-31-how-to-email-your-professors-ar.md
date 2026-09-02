@@ -6,7 +6,6 @@ lang: ar
 categories: [UQU Tips]
 tags: [uqu, email, professors, students, tips]
 description: "البيانات المطلوبة عند إرسال رسائل البريد الإلكتروني للأساتذة: اسم الطالب، الرقم الجامعي، اسم المقرر، ورقم الشعبة."
-permalink: /posts/how-to-email-your-professors-ar/
 hidden: true
 ---
 

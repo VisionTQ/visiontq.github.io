@@ -5,7 +5,6 @@ author: tnebula
 categories: [UQU Courses]
 tags: [uqu, eng1104, writing, academic, courses]
 description: "Course info for Academic Writing 1 (ENG1104), Section 5: instructor, textbook, and WhatsApp group."
-permalink: /posts/academic-writing-1-eng1104/
 hidden: true
 ---
 

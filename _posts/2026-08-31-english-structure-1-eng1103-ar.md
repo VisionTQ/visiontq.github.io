@@ -6,7 +6,6 @@ lang: ar
 categories: [UQU Courses]
 tags: [uqu, eng1103, english, grammar, courses]
 description: "معلومات مقرر تراكيب اللغة الإنجليزية 1 (ENG1103)، شعبة 2: الأستاذ، الكتاب المقرر، الخطة، والتقييم."
-permalink: /posts/english-structure-1-eng1103-ar/
 hidden: true
 ---
 

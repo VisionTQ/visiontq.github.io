@@ -5,7 +5,6 @@ author: tnebula
 categories: [Student Life]
 tags: [uqu, whatsapp, groups, students, saudi-arabia]
 description: "WhatsApp group links for UQU courses, organized by section and instructor."
-permalink: /posts/uqu-study-groups/
 image: /assets/uqu/uqu-study-groups-thumbnail.png
 hidden: true
 ---

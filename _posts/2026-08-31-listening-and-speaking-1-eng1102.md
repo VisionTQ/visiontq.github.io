@@ -5,7 +5,6 @@ author: tnebula
 categories: [UQU Courses]
 tags: [uqu, eng1102, listening, speaking, courses]
 description: "Course info for Listening & Speaking 1 (ENG1102), Section 7: instructor, textbook, assessment, course outline, and WhatsApp group."
-permalink: /posts/listening-and-speaking-1-eng1102/
 hidden: true
 ---
 
@@ -17,7 +16,7 @@ hidden: true
 **Activity:** Theoretical (نظري)  
 **Section:** 7  
 **Credit Hours:** 3  
-**Instructor:** Dr. Akram Ibrahim Abdullah Al-Hawis  
+**Instructor:** Dr. Akram Ibrahim Abdullah Al-Hawis [aigouzi@uqu.edu.sa](mailto:aigouzi@uqu.edu.sa)
 **Semester:** 1st Semester 1448 H / 2026 G
 
 ## Textbook

@@ -6,7 +6,6 @@ lang: ar
 categories: [Student Life]
 tags: [uqu, whatsapp, groups, students, saudi-arabia]
 description: "روابط المجموعات الدراسية على واتساب لمقررات جامعة أم القرى، مرتبة حسب الشعبة والأستاذ."
-permalink: /posts/uqu-study-groups-ar/
 image: /assets/uqu/uqu-study-groups-thumbnail.png
 hidden: true
 ---

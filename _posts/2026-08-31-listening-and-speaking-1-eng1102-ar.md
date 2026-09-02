@@ -6,7 +6,6 @@ lang: ar
 categories: [UQU Courses]
 tags: [uqu, eng1102, listening, speaking, courses]
 description: "معلومات مقرر التحدث والاستماع 1 (ENG1102)، شعبة 7: الأستاذ، الكتاب المقرر، التقييم، الخطة، ومجموعة الواتساب."
-permalink: /posts/listening-and-speaking-1-eng1102-ar/
 hidden: true
 ---
 
@@ -18,7 +17,7 @@ hidden: true
 **النشاط:** نظري  
 **الشعبة:** 7  
 **الساعات:** 3  
-**المحاضر:** د. أكرم إبراهيم عبدالله الحويس  
+**المحاضر:** د. أكرم إبراهيم عبدالله الحويس  [aigouzi@uqu.edu.sa](mailto:aigouzi@uqu.edu.sa)
 **الفصل الدراسي:** الفصل الأول 1448هـ / 2026م
 
 ## الكتاب المقرر
