@@ -12,7 +12,7 @@ hidden: true
 
 | العربية | English |
 | :---: | :---: |
-| [العربية](/posts/understanding-lecture-class-numbers-at-uqu-ar/) | [English](/posts/understanding-lecture-class-numbers-at-uqu/) |
+| [العربية](/posts/understanding-lecture-class-numbers-ar/) | [English](/posts/understanding-lecture-class-numbers/) |
 
 فهم رقم قاعة المحاضرة سهل.
 

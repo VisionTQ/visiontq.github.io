@@ -11,7 +11,7 @@ hidden: true
 
 | English | العربية |
 | :---: | :---: |
-| [English](/posts/understanding-lecture-class-numbers-at-uqu/) | [العربية](/posts/understanding-lecture-class-numbers-at-uqu-ar/) |
+| [English](/posts/understanding-lecture-class-numbers/) | [العربية](/posts/understanding-lecture-class-numbers-ar/) |
 
 Understanding the lecture class number is easy.
 
