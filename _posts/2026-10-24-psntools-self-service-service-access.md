@@ -14,7 +14,7 @@ Self-service is for services you bought for your own PlayStation account, such a
 
 Go to [modding.psntools.com](https://modding.psntools.com). On the **What Did You Buy?** page, choose **Something For My Own Account**.
 
-![What Did You Buy screen with Something For My Own Account highlighted](/assets/psn-tools/self-service/service-access-card.png)
+![What Did You Buy screen with Something For My Own Account highlighted](/assets/psn-tools/self-service/service-access-card.png){: .w-100 .shadow .rounded-10 }
 
 ## Step 2: Choose how to log in
 
@@ -25,19 +25,19 @@ Go to [modding.psntools.com](https://modding.psntools.com). On the **What Did Yo
 3. Enter your **marketplace username** in the **Your Marketplace Username** field.
 4. Click **Access My Services**.
 
-![Order page with the Order ID highlighted](/assets/psn-tools/self-service/service-access-order-id.png)
+![Order page with the Order ID highlighted](/assets/psn-tools/self-service/service-access-order-id.png){: .w-100 .shadow .rounded-10 }
 
-![Access Your Services form with the Order ID and Marketplace Username fields highlighted](/assets/psn-tools/self-service/service-access-form.png)
+![Access Your Services form with the Order ID and Marketplace Username fields highlighted](/assets/psn-tools/self-service/service-access-form.png){: .w-100 .shadow .rounded-10 }
 
 When the order is verified, you will see **Successfully verified order ownership**.
 
-![Access Your Services form filled in with the success message](/assets/psn-tools/self-service/service-access-success.png)
+![Access Your Services form filled in with the success message](/assets/psn-tools/self-service/service-access-success.png){: .w-100 .shadow .rounded-10 }
 
 ### Option 2: Use the magic link
 
 If your order has a magic link, you can skip the form. Open your order and copy the link in the **Login** field, then open it in your browser. No password is needed.
 
-![Order page with the magic link in the Login field highlighted](/assets/psn-tools/self-service/service-access-magic-link.png)
+![Order page with the magic link in the Login field highlighted](/assets/psn-tools/self-service/service-access-magic-link.png){: .w-100 .shadow .rounded-10 }
 
 The link in the screenshot is only an example. Use the link from your own order.
 
@@ -53,7 +53,7 @@ Before you can use your services, connect your PSN account with an NPSSO token.
 
 > **Note:** Use a fresh token. If it is older than about 20 minutes, sign out of PlayStation, sign back in, and copy it again.
 
-![Your Services page with the NPSSO Token field and Connect Account button highlighted](/assets/psn-tools/self-service/service-access-npsso.png)
+![Your Services page with the NPSSO Token field and Connect Account button highlighted](/assets/psn-tools/self-service/service-access-npsso.png){: .w-100 .shadow .rounded-10 }
 
 After your account is connected, the **Entitlements Summary** shows what you can use. The list depends on what you bought, and each item shows how many uses are remaining.
 

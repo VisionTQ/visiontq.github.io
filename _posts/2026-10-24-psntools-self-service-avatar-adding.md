@@ -24,11 +24,11 @@ Avatar Adding lets you use the avatar unlocks you bought for your own PSN accoun
 1. Open the magic link from your order.
 2. On the **Your Services** page, click **Avatars**.
 
-![Your Services page with the Avatars card highlighted](/assets/psn-tools/self-service/avatar-adding-open.png)
+![Your Services page with the Avatars card highlighted](/assets/psn-tools/self-service/avatar-adding-open.png){: .w-100 .shadow .rounded-10 }
 
 ## Step 2: Choose how many avatars to add
 
-![Avatars page with the Avatar Entitlement and Purchase Avatars sections](/assets/psn-tools/self-service/avatar-adding-page.png)
+![Avatars page with the Avatar Entitlement and Purchase Avatars sections](/assets/psn-tools/self-service/avatar-adding-page.png){: .w-100 .shadow .rounded-10 }
 
 The **Avatar Entitlement** section shows how many avatars you have left. For example, 400 remaining.
 

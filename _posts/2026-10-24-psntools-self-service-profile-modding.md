@@ -24,11 +24,11 @@ Profile Modding lets you use the profile changes you bought for your own PSN acc
 1. Open the magic link from your order.
 2. On the **Your Services** page, click **Profile Customization**.
 
-![Your Services page with the Profile Customization card highlighted](/assets/psn-tools/self-service/profile-modding-open.png)
+![Your Services page with the Profile Customization card highlighted](/assets/psn-tools/self-service/profile-modding-open.png){: .w-100 .shadow .rounded-10 }
 
 ## Step 2: Choose what to change
 
-![Profile Customization page with About Me, Real Name, Background Color, and Background Image](/assets/psn-tools/self-service/profile-modding-page.png)
+![Profile Customization page with About Me, Real Name, Background Color, and Background Image](/assets/psn-tools/self-service/profile-modding-page.png){: .w-100 .shadow .rounded-10 }
 
 - **About Me:** Set your bio with custom PS5 icons, up to 140 characters.
 - **Real Name:** Use special characters, or fill or hide your real name.
