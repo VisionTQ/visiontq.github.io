@@ -1,140 +1,188 @@
 ---
-title: "YouTube ReVanced Manager: The Best Guide for Dummies"
+title: "I Switched from ReVanced to Morphe: Full YouTube Morphe Guide"
 date: 2025-09-22
 author: tnebula
-description: "Step-by-step guide to install YouTube without ads using ReVanced Manager. Non-root friendly and Huawei compatible."
+description: "My full step-by-step guide to patching YouTube and installing MicroG RE."
 tags: [youtube, revanced, no-ads, android, huawei]
 categories: ["Android", "Tutorials"]
 image: /assets/Revanced/revanced-cover.png
 ---
 
-
-> We are aware that the ReVanced app has been updated to version 2. The guide will be updated soon to reflect these changes.
+> **Heads up:** Morphe is basically the same thing as ReVanced. I switched this tutorial to Morphe because it gets updates more often and faster. It is made by former members of the ReVanced team, not the current ReVanced team, so it is an independent successor built on ReVanced's code.
 {: .prompt-warning }
 
+## What you need
 
-## Before We Begin
-This guide will teach you how to install YouTube with no ads using **ReVanced Manager**. The guide is for non-root users and beginners, and it's also compatible with Huawei devices.
+- An Android phone running Android 9 or later
+- About 5-10 minutes
+- **Morphe Manager** (the patcher app)
+- An **unpatched YouTube APK**, version `21.20.405` (the version Morphe asks for)
+- **MicroG RE** (so you can sign in to Google)
 
-#### What You'll Need:
-- An Android phone  
-- Device running Android 8 or later  
-- About 10 minutes of time (depends on your device)  
-> ⏱ Speed run: ~4 min | Flagship: 5–10 min | Mid/Low-tier: 10–15 min  
+## The quick version
 
-#### Quick Summary of What We’ll Do
-1. Download and install three applications: **ReVanced GmsCore (microG)**, **ReVanced Manager**, and the **currently suggested YouTube APK**.  
-2. Open **ReVanced Manager** and select YouTube to patch it.  
-3. Let the patcher apply the selected features and install the patched app once it’s ready.  
+If you already know how this works, here is the whole thing in seven lines:
 
-> ✅ This gives you a high-level view so you know what to expect before starting.
+1. Install Morphe.
+2. Download the unpatched YouTube APK from APKMirror. Do not install it.
+3. Open Morphe, choose YouTube, and select the APK.
+4. Patch it, then install the patched app.
+5. Install MicroG RE.
+6. Disable battery optimization for MicroG RE.
+7. Sign in to your Google account.
 
-## Guide and Downloads
+The rest of this post is the same thing with pictures and explanations.
 
-### Step 1: Install ReVanced Manager
+## Step 1: Install Morphe
 
-1. Download and **install** [ReVanced Manager](https://revanced.app/download) (Should be v2.1.0 at the time of writing this).
-   - If you already have it installed, make sure it is the latest version.
+Go to [morphe.software](https://morphe.software) and tap **Download Morphe**.
 
-2. Download [ReVanced GmsCore (microG)](https://github.com/ReVanced/GmsCore/releases/latest).
-   - If you do **not** have a Huawei device, download the default version.
-   - If you have a Huawei device, download the Huawei-specific version.
+![Morphe website download page](/assets/morphe/morphe-website-download.jpg){: .w-75 .shadow .rounded-10 }
 
-3. Open ReVanced Manager. If prompted, grant permission to install unknown apps.
+Install the APK like any other app. If your phone warns you about installing from an unknown source, allow it for your browser.
 
-4. Open the **Patcher** tab and click **Select an app**.
+When it finishes, you should see the Morphe icon on your home screen.
 
-    ![ReVanced Manager - Select an app screen](/assets/Revanced/revanced-step1.jpg){: .w-75 .shadow .rounded-10 }
+![Morphe app icon on the home screen](/assets/morphe/morphe-app-installed.jpg){: .w-75 .shadow .rounded-10 }
 
-5. Click on the **Suggested Version**.
+Open it and you will land on the Morphe home screen. Mine had a Halloween theme with the title "Trick or patch?" when I took these screenshots, so do not worry if yours looks different. The layout is the same.
 
-    ![ReVanced Manager - Suggested version selection](/assets/Revanced/revanced-step2.jpg){: .w-75 .shadow .rounded-10 }
+![Morphe home screen with YouTube, YouTube Music, and Reddit](/assets/morphe/morphe-home-trick-or-patch.jpg){: .w-75 .shadow .rounded-10 }
 
-6. After clicking, you will be redirected to a Google search page.
+You will see YouTube, YouTube Music, and Reddit, all marked "Not patched yet". We are only doing YouTube today.
 
-    ![ReVanced Manager - Google search for YouTube APK](/assets/Revanced/revanced-step3.jpg){: .w-75 .shadow .rounded-10 }
+## Step 2: Get the unpatched YouTube APK
 
-7. Click on the first APKMirror link for the **nodpi** APK and scroll down to click the red **Download** button.
+Morphe does not give you a finished YouTube app. You download the official YouTube APK yourself, and Morphe modifies your copy.
 
-    > **Important:** Do **not** install the APK yet — you’ll patch it first using ReVanced Manager.
-    {: .prompt-warning }
+Tap **YouTube** in Morphe. It will tell you it needs an original, unpatched APK, and it will show the exact version it supports. In my case it was `21.20.405`.
 
-    ![ReVanced Manager - APKMirror download page](/assets/Revanced/revanced-step4.jpg){: .w-75 .shadow .rounded-10 }
+![Morphe asking for an unpatched YouTube APK](/assets/morphe/morphe-unpatched-apk-prompt.jpg){: .w-75 .shadow .rounded-10 }
 
----
+Tap **Yes, help me find an APK**. Morphe gives you the steps and a button to continue to APKMirror.
 
-### Step 2: Patch YouTube
+![Morphe instructions for downloading the original APK](/assets/morphe/morphe-apkmirror-instructions.jpg){: .w-75 .shadow .rounded-10 }
 
-1. Go back to ReVanced Manager → **Patcher** tab → **Select an app** → **Storage**.
+On APKMirror, scroll down and tap the **DOWNLOAD APK** button. The file is around 177 MB for this version.
 
-2. Browse your Downloads folder and select the YouTube APK you just downloaded.
+![APKMirror download page for YouTube 21.20.405](/assets/morphe/apkmirror-youtube-download-page.jpg){: .w-75 .shadow .rounded-10 }
 
-    ![ReVanced Manager - Select YouTube APK from storage](/assets/Revanced/revanced-step5.jpg){: .w-75 .shadow .rounded-10 }
+Then wait for the download to finish.
 
-3. ReVanced Manager will display the YouTube app with several selected patches.
+![APKMirror download starting page](/assets/morphe/apkmirror-download-starting.jpg){: .w-75 .shadow .rounded-10 }
 
-4. Press **Patch** to begin patching.
+> **Do not install the APK.** This is the most common mistake. Morphe needs the untouched file. If you install it, you will have a normal YouTube app and nothing to patch.
+{: .prompt-warning }
 
-    ![ReVanced Manager - Patch selection screen](/assets/Revanced/revanced-step6.png){: .w-75 .shadow .rounded-10 }
+Once the download is done, go back to Morphe.
 
-5. Keep ReVanced Manager open while the app is being patched. Ensure no errors occur. the patch log should be readable.
+## Step 3: Patch YouTube
 
-6. When patching completes, press **Install**.
+Morphe now asks you to select the APK you just downloaded.
 
-    > 💡 Tip: You can also export the patched APK using the button on the bottom left.
+![Morphe asking to select the downloaded APK](/assets/morphe/morphe-select-downloaded-apk.jpg){: .w-75 .shadow .rounded-10 }
 
-    ![ReVanced Manager - Patching in progress](/assets/Revanced/revanced-step7.png){: .w-75 .shadow .rounded-10 }
+Tap **Open APK file**, then find the YouTube APK in your Downloads folder.
 
-7. If a popup appears saying installation is blocked because it is an unknown app, tap "**More details**" → "**Install anyway**".
+Morphe will start patching. 
 
-    ![ReVanced Manager - Install anyway prompt](/assets/Revanced/revanced-step8.png){: .w-75 .shadow .rounded-10 }
+![Morphe patching in progress, 0 of 104 patches](/assets/morphe/morphe-patching-progress.jpg){: .w-75 .shadow .rounded-10 }
 
----
+Keep the app open and let it finish. Depending on your phone, this can take a few minutes. When it is done, you will see the patched YouTube screen with the version, the number of patches, and the patch source.
 
-### Step 3: Install GmsCore (microG)
-Once patching and installation finish, check if **ReVanced GmsCore** is installed.  
-- If it’s not installed, you will need it for YouTube ReVanced to run in a non-root environment.   
-- ReVanced Manager will automatically open the [download page](https://github.com/ReVanced/GmsCore/releases/latest) if required.  
-- Huawei users: make sure to install the special Huawei version.
+In my case it was:
 
----
+- Version: `v21.20.405`
+- Patches: `104 patches`
+- Source: `Morphe Patches 1.48.0`
 
-### Extras: Explore YouTube ReVanced Features
-- Open YouTube ReVanced and go to **Settings → ReVanced**.  
-- Configure features such as:  
-  - Ad-blocking  
-  - Background playback  
-  - SponsorBlock (skip sponsored segments)  
-  - & more  
+![YouTube patched successfully in Morphe](/assets/morphe/morphe-patched-youtube-install.jpg){: .w-75 .shadow .rounded-10 }
 
----
+## Step 4: Install the patched app
 
-## How to Update YouTube ReVanced
-1. Download the **suggested YouTube APK**.  
-2. Patch it using ReVanced Manager.  
-3. Install it — no need to uninstall your current YouTube ReVanced or ReVanced Manager.  
-4. Ensure your **ReVanced Manager** is up-to-date.  
-5. Check if ReVanced GmsCore also has updates on its [GitHub releases](https://github.com/ReVanced/GmsCore/releases/latest).
+Tap **Install**.
 
----
+I also saved a copy of the patched APK, just in case I needed to reinstall it later without patching again. If you want to do that too, tap the save icon next to the Install button.
 
-## Sources & References
+![Saving the patched APK in the file picker](/assets/morphe/morphe-save-apk-dialog.jpg){: .w-75 .shadow .rounded-10 }
 
-This guide was created by combining official documentation, community tutorials, and my own testing on a real device.  
-I wanted to make a single, simplified guide that pulls together all the important details so you don’t need to jump between multiple sources.
+Pick a folder, for example `Downloads/APKs`, and hit **SAVE**. You will get a small "APK Saved" confirmation.
 
-The following resources were used for reference and inspiration:
+![APK Saved confirmation in Morphe](/assets/morphe/morphe-apk-saved.jpg){: .w-75 .shadow .rounded-10 }
 
-- [KobeW50 – YouTube ReVanced Guide (GitHub)](https://github.com/KobeW50/ReVanced-Documentation/blob/main/YT-ReVanced-Guide.md)  
-- [SodaWithoutSparkles – ReVanced Troubleshooting Guide](https://sodawithoutsparkles.github.io/revanced-troubleshooting-guide/step-by-step/00-preface/)  
-- [Reddit: YouTube ReVanced Step-by-Step Guide](https://www.reddit.com/r/revancedapp/comments/159zbb6/guide_youtube_revanced/)  
-- [ReVanced Manager – Prerequisites (GitHub)](https://github.com/ReVanced/revanced-manager/blob/main/docs/0_prerequisites.md)  
-- [Reddit: ReVanced Links, Guides, Help & FAQs](https://www.reddit.com/r/revancedapp/comments/13rqbiy/revanced_links_guides_help_and_faqs/)  
+If you go back to the app list, you can see the patched app details. The package is `app.morphe.android.youtube`, and the original package it came from is `com.google.android.youtube`. That is normal, because the patched app is treated as a separate app.
 
-This blog puts all of that into one place, rewritten in simple language and tested step by step.
+![YouTube Morphe details showing package name and patches](/assets/morphe/morphe-youtube-morphe-details.jpg){: .w-75 .shadow .rounded-10 }
 
----
+On Huawei phones, the Huawei App Market takes over the install prompt. Tap **ALLOW**.
 
-If you have corrections or want to contribute to this guide, just open a pull request [here](https://github.com/VisionTQ/visiontq.github.io/pulls) and I'll add your name and link to your social in the post.
+![Huawei App Market install prompt for YouTube Morphe](/assets/morphe/huawei-install-youtube-morphe.jpg){: .w-75 .shadow .rounded-10 }
 
-  ![Not AI](/assets/img/Written-By-Humans-Not-By-AI-Badge-black.png){: .right }
+If you ticked "Don't ask me again", you will not see this prompt for future patches.
+
+When it finishes, you should have both Morphe and the patched YouTube on your home screen. The patched one uses the Morphe-style icon, so you can tell it apart from the stock app. You can change the icon in the Pached Youtube app if you want.
+
+![Home screen with Morphe and the patched YouTube app](/assets/morphe/youtube-morphe-home-screen.jpg){: .w-75 .shadow .rounded-10 }
+
+## Step 5: Install MicroG RE
+
+If you open the patched YouTube now, it will probably work for browsing, but it will not let you sign in to your Google account. This is where MicroG comes in.
+
+MicroG is an open source replacement for Google Play Services. When Morphe patches YouTube, it re-signs the app with a different key. Google's real Play Services sees that mismatch and refuses to talk to it. MicroG sits in the middle and handles the Google sign-in and notifications instead.
+
+When I opened YouTube the first time, I got this warning:
+
+> The installed MicroG is not recommended by Morphe:
+> `0.3.13.2.250932-hw`
+
+That `-hw` version is the old Huawei build of MicroG that I already had on my phone from my [Huawei Google services guide](/posts/how-to-get-google-services-on-huawei/). Morphe wants its own fork, **MicroG RE**.
+
+![MicroG not recommended warning inside YouTube Morphe](/assets/morphe/microg-not-recommended-warning.jpg){: .w-75 .shadow .rounded-10 }
+
+Tap **Uninstall** and remove the old MicroG. Then go to [morphe.software/microg](https://morphe.software/microg) and download MicroG RE.
+
+![Morphe MicroG download page](/assets/morphe/microg-download-page.jpg){: .w-75 .shadow .rounded-10 }
+
+The file you want is `microg-7.2.2.apk`. You can see it in my Downloads list below. 
+
+![Downloads folder showing the MicroG RE APK](/assets/morphe/downloads-microg-apk.jpg){: .w-75 .shadow .rounded-10 }
+
+Install it. Huawei App Market will check it and then you can tap **INSTALL**.
+
+![Huawei App Market install screen for MicroG RE](/assets/morphe/huawei-install-microg-re.jpg){: .w-75 .shadow .rounded-10 }
+
+## Step 6: Disable battery optimization
+
+Open the patched YouTube again. This time it should ask you to turn off battery optimization for MicroG.
+
+![YouTube Morphe asking to disable MicroG battery optimization](/assets/morphe/microg-battery-warning.jpg){: .w-75 .shadow .rounded-10 }
+
+Tap **Continue**, then **DISABLE** on the Android settings popup.
+
+![Android settings asking to disable battery optimization](/assets/morphe/disable-battery-optimization.jpg){: .w-75 .shadow .rounded-10 }
+
+It means MicroG is allowed to stay running in the background so notifications and sign-in keep working.
+
+## Step 7: Sign in to Google
+
+Open **MicroG RE** from your app drawer. You should now have Morphe, MicroG RE, and the patched YouTube sitting next to each other.
+
+![Home screen with MicroG RE, Morphe, and YouTube](/assets/morphe/all-apps-installed-home-screen.jpg){: .w-75 .shadow .rounded-10 }
+
+Tap **Add Account**. MicroG gives you two options:
+
+- **Sign in**: the normal Google sign-in flow
+- **Huawei**: the button made for Huawei devices
+
+![MicroG RE Add Account screen with Huawei and Sign in buttons](/assets/morphe/microg-add-account-sign-in.jpg){: .w-75 .shadow .rounded-10 }
+
+After you sign in, open YouTube Morphe. Your subscriptions, playlists, and watch history should show up like normal.
+
+## Troubleshooting
+
+**"MicroG is not recommended by Morphe"**
+You still have the old MicroG installed. Uninstall it, then install MicroG RE from [morphe.software/microg](https://morphe.software/microg).
+
+The part that tripped me up was the old Huawei MicroG. I had it installed from a previous guide, and Morphe kept warning me about it until I removed it and installed MicroG RE. If you are coming from ReVanced on a Huawei phone, expect that..
+
+![Not AI](/assets/img/Written-By-Humans-Not-By-AI-Badge-black.png){: .right }
