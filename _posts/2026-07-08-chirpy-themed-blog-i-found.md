@@ -30,3 +30,6 @@ I went searching for other Chirpy-themed blogs to see how people customize their
 ## What I used from each
 
 > I will add notes here later about what I took from each site.
+
+
+![Not AI](/assets/img/Written-By-Humans-Not-By-AI-Badge-black.png){: .right }

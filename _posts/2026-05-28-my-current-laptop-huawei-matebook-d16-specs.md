@@ -299,3 +299,5 @@ The laptop has a built-in recovery feature:
 - [HUAWEI Share Guide](https://consumer.huawei.com/en/support/huaweisharewelcome/)
 - [Teardown / Disassembly Video](https://www.youtube.com/watch?v=XLcCLAA4lYE)
 - [PC Manager Driver Downloads](https://consumer.huawei.com/en/support/)
+
+![Not AI](/assets/img/Written-By-Humans-Not-By-AI-Badge-black.png){: .right }

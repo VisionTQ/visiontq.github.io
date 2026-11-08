@@ -90,3 +90,6 @@ Solemn fools who believe that truth is more important than beauty.
 > So Shakespeare learnt and learnt and got better and better, and his lines became more and more striking and more and more memorable. But most of his great and famous lines are simply examples of the ancient formulas.
 
 > If somebody learns how to phrase things beautifully, they might be able to persuade you of something that isn't true. Stern people dislike rhetoric, and unfortunately it's usually stern people who are in charge.
+
+
+![Not AI](/assets/img/Written-By-Humans-Not-By-AI-Badge-black.png){: .right }

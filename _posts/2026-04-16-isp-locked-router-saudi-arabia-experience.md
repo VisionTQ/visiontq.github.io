@@ -105,7 +105,7 @@ Scratch the recommendation above. **Please do not get Salam.** Their customer se
 
 Here is what actually happened. I have two lines with Salam. One of them is disconnected, and they are still charging me for it. I opened a support ticket weeks ago. Customer support did reply, and then nothing. Weeks later, still nothing done.
 
-So if you are thinking of getting Salam, do not. The connection itself works fine, but the moment something goes wrong you are stuck with a bill and no one to fix it.
+So if you are thinking of getting Salam, do not. The connection itself works fine, but the moment something goes wrong you are stuck with a bill and no one to fix it. As of November 2026, the ticket is still unresolved.
 
 And the PPPoE thing was never special to Salam either. Every newly installed ISP sends the username and PPPoE password by SMS. I only found that out after I got STC. So ask your current ISP for the credentials and check your SMS first. You probably do not need to switch providers at all.
 

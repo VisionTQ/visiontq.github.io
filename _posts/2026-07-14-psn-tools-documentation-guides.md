@@ -49,3 +49,5 @@ I designed all the images in Canva using a simple method:
 
 {% include embed/video.html src='/assets/psn-tools/canva-highlight-design.mp4' %}
 
+![Not AI](/assets/img/Written-By-Humans-Not-By-AI-Badge-black.png){: .right }
+

@@ -20,3 +20,5 @@ These are the public tutorial videos I created for the [PSNTools YouTube channel
 Note:
 
 I used ElevenLabs for the AI voiceover. It was a beta model, but it sounded very realistic and had a lot of emotion. Why did I use an AI instead of my own voice? Honestly, I don't have a clear answer. I was probably insecure, and I was also working on a British accent, so I wanted to perfect that before making any content. We agreed on `REDACTED$`, but I think it should have been more, lol. He is my friend though. I learned so much from making the videos. You can also customize how the character changes their tone in the voice. The script and the video were completely human-made, including the edits.
+
+![Not AI](/assets/img/Written-By-Humans-Not-By-AI-Badge-black.png){: .right }
