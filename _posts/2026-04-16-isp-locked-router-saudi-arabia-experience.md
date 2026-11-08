@@ -86,7 +86,7 @@ Also, the technician told me it's not possible to replace the router
 
 Note: The Reddit post has been removed by the moderators. Not sure why they would since many posts have a similar issue to mine but didn't remove them.
 
-## Update: I Finally Found a Fix
+## Update 1: I Finally Found a Fix
 
 So after all that struggle, I switched to another provider called **Salam**. And you won't believe what happened — they sent me a text message on my number with the full PPPoE details. It was meant for the technician lmao. I burst with happiness when I saw it.
 
@@ -94,7 +94,20 @@ I even asked the technician to do it for me and he had no clue what to do. Like 
 
 I opened the ISP router's settings, grabbed the VLAN ID from there, put in the PPPoE credentials from the text message, and boom — it finally worked. My own router, fully connected, no DMZ, no double NAT, nothing. Just straight ONT → my Huawei router.
 
-So yeah, if you're stuck in the same situation: switch to Salam, get those PPPoE details (they literally text them to you), grab the VLAN ID from your ISP router's WAN settings, and you're golden.
+So yeah, if you're stuck in the same situation: get the PPPoE details (they text them to you), grab the VLAN ID from your ISP router's WAN settings, and you're golden.
+
+> **Correction:** I no longer recommend Salam. Read Update 2 at the end of this post before you switch.
+{: .prompt-warning }
+
+## Update 2: Do Not Get Salam
+
+Scratch the recommendation above. **Please do not get Salam.** Their customer service is bad, and I regret switching to them.
+
+Here is what actually happened. I have two lines with Salam. One of them is disconnected, and they are still charging me for it. I opened a support ticket weeks ago. Customer support did reply, and then nothing. Weeks later, still nothing done.
+
+So if you are thinking of getting Salam, do not. The connection itself works fine, but the moment something goes wrong you are stuck with a bill and no one to fix it.
+
+And the PPPoE thing was never special to Salam either. Every newly installed ISP sends the username and PPPoE password by SMS. I only found that out after I got STC. So ask your current ISP for the credentials and check your SMS first. You probably do not need to switch providers at all.
 
 ## References
 

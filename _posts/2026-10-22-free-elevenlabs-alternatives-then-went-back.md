@@ -11,6 +11,9 @@ tags:
   - qwen3-tts
   - voice-cloning
 description: I tested Chatterbox and Qwen3-TTS as free ElevenLabs alternatives, then went back to the ElevenLabs Reader for listening to EPUB books.
+image:
+  path: /assets/voice-cloning/elevenlabs-cover.jpg
+  alt: I tested free AI voices, then went back to ElevenLabs
 ---
 
 I wanted a free alternative to ElevenLabs for voice cloning, so I tried two open source demos: Chatterbox and Qwen3-TTS.
@@ -53,4 +56,7 @@ Text to synthesize with the cloned voice:
 
 I gave up on this since I found the ElevenLabs Reader. It seems better because I can just upload the EPUB from z-lib.gd. I used the ElevenLabs Reader, and right now I'm using it to listen to *Fluent Forever*. I tried to listen to it on Spotify, but it seems region locked or something. Anyway, if you are looking to listen to books, get them from z-lib.gd and listen to the audiobook using ElevenLabs by uploading the book from z-lib.gd as an EPUB file.
 
-![Not AI](/assets/img/Written-By-Humans-Not-By-AI-Badge-black.png){: .right }
+> **Note:** The thumbnail is AI-generated.
+{: .prompt-info }
+
+![Not AI](/assets/img/Written-By-Humans-Not-By-AI-Badge-black.png){: .right } 
