@@ -33,3 +33,8 @@ assets/js/dist
 *~
 .DS_Store
 Thumbs.db
+
+# Editor and agent folders (local only)
+.obsidian
+.opencode
+.ruby-version
