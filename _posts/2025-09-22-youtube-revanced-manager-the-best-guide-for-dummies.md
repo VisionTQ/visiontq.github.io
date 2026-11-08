@@ -5,7 +5,9 @@ author: tnebula
 description: "My full step-by-step guide to patching YouTube and installing MicroG RE."
 tags: [youtube, revanced, no-ads, android, huawei]
 categories: ["Android", "Tutorials"]
-image: /assets/Revanced/revanced-cover.png
+image:
+  path: /assets/morphe/youtube-morphe-cover.jpg
+  alt: YouTube Morphe cover with ReVanced crossed out
 ---
 
 > **Heads up:** Morphe is basically the same thing as ReVanced. I switched this tutorial to Morphe because it gets updates more often and faster. It is made by former members of the ReVanced team, not the current ReVanced team, so it is an independent successor built on ReVanced's code.
